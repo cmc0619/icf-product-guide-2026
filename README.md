@@ -28,6 +28,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Burmon SBBB Buck Brace | Temporary bracing for window and door openings during placement | [Link](https://burmon.com/icf-solutions/) | [Reference](https://burmon.com/icf-solutions/) |
 | Prebuck | Engineered lumber bucks | [Link](https://www.prebuckproducts.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Stala IFAs | Steel opening frames | [Link](https://www.stalaframing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| NoBuck (RDH Module 4 — direct to concrete) | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Research notes](research/nobuck.md) | [RDH report](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf#page=9) |
 
 ## Concrete Placement
 
