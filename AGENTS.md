@@ -6,3 +6,7 @@
 - Attribute each product to its relevant sources; treat all discovery sources equally.
 - Distinguish verified facts from research leads and hypotheses.
 - Do not publish private information or secrets.
+- Remove confirmed defunct vendors and discontinued products; do not maintain a vendor-status archive. Verify commercial relevance before adding products; Git history preserves prior entries.
+- Prefer durable functional descriptions over time-relative wording, ownership history, prices or marketing claims. Retain useful brand/parent relationships such as Nudura (Tremco).
+- Exclude wood-cement ICF; retain interesting adjacent products. Keep HVAC guidance brief and tied to construction interfaces.
+- Preserve dated primary research and its test limitations.
