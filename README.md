@@ -42,6 +42,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Hambro D500 | Composite steel joists | [Link](https://www.hambro.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Insul-Deck | Insulated slab forms | [Link](https://www.insul-deck.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Super Floor USA | Composite metal decking | [Link](https://www.superfloorusa.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Speedfloor | Composite suspended concrete floor; galvanized cold-formed steel joists; typical 100 mm slab; manufacturer states no propping; service openings | [Link](https://www.speedfloor.com.au/) | [Reference](https://www.speedfloor.com.au/speedfloor-joist) |
 
 ## Footings
 
@@ -75,6 +76,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Quad-Lock | Modular panel forms | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Stronghold | ICF blocks | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | SuperForm | EPS blocks | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Element ICF | Hybrid preformed and site-assembled ICF blocks; interchangeable panels and Flexties; successor to Logix | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
 
 ## Waterproofing
 
