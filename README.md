@@ -6,6 +6,14 @@ An independent, evolving construction knowledge base. Entries are organized by f
 
 [Filterable CSV](products.csv) · [Source and research notes](sources.md)
 
+**EPS compatibility:** Solvent-based coatings, primers and adhesives can dissolve EPS. Use products explicitly approved for the form and substrate. See [waterproofing notes](research/waterproofing.md).
+
+## Adhesives & Sealants
+
+| Product | Function | Vendor | Source |
+|---|---|---|---|
+| Foam2Foam | Low-expansion polyurethane adhesive and gap filler for ICF | [Link](https://store.buildblock.com/accessories/tools/00wlccv11-foam2foam-kit-foam-11x-cleaner-1x-gloves-foam-gun) | [Reference](https://store.buildblock.com/accessories/tools/00wlccv11-foam2foam-kit-foam-11x-cleaner-1x-gloves-foam-gun) |
+
 ## Associations
 
 | Product | Function | Vendor | Source |
@@ -26,9 +34,9 @@ An independent, evolving construction knowledge base. Entries are organized by f
 |---|---|---|---|
 | Alleguard AmBuck | EPS opening forms | [Link](https://www.alleguard.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Burmon SBBB Buck Brace | Temporary bracing for window and door openings during placement | [Link](https://burmon.com/icf-solutions/) | [Reference](https://burmon.com/icf-solutions/) |
+| NoBuck (RDH Module 4 — direct to concrete) | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Link](https://www.bchousing.org/) | [Reference](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf) |
 | Prebuck | Engineered lumber bucks | [Link](https://www.prebuckproducts.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Stala IFAs | Steel opening frames | [Link](https://www.stalaframing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| NoBuck (RDH Module 4 — direct to concrete) | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Research notes](research/nobuck.md) | [RDH report](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf#page=9) |
 
 ## Concrete Placement
 
@@ -47,6 +55,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | BuildCrete | Reinforced coating system for compatible ICF substrates | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
+| Dryvit Outsulation over Nudura | Exterior insulation finish assembly with moisture-drainage option | [Link](https://tremcocpg.com/our-approach/whole-wall-systems) | [Reference](https://tremcocpg.com/our-approach/whole-wall-systems) |
 | Nudura integral fastening strips | Embedded strips for mechanical attachment of interior gypsum and exterior cladding; not attachment to EPS alone | [Link](https://www.nudura.com/icf-education/icf-101) | [Reference](https://www.nudura.com/icf-education/icf-101) |
 | Traditional stucco over mechanically attached lath | Method: fasten lath to approved ICF webs; verify assembly requirements | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
 
@@ -54,9 +63,11 @@ An independent, evolving construction knowledge base. Entries are organized by f
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
+| BuildDeck | EPS stay-in-place concrete floor and roof forms | [Link](https://buildblock.com/products/builddeck-floor-roofing/) | [Reference](https://buildblock.com/products/builddeck-floor-roofing/) |
 | Crete-Heat | Radiant tubing insulation panels | [Link](https://www.crete-heat.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Hambro D500 | Composite steel joists | [Link](https://www.hambro.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Insul-Deck | Insulated slab forms | [Link](https://www.insul-deck.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| LiteDeck | Insulated suspended concrete floor forms | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
 | Speedfloor | Composite suspended concrete floor; galvanized cold-formed steel joists; typical 100 mm slab; manufacturer states no propping; service openings | [Link](https://www.speedfloor.com.au/) | [Reference](https://www.speedfloor.com.au/speedfloor-joist) |
 | Super Floor USA | Composite metal decking | [Link](https://www.superfloorusa.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
@@ -74,17 +85,9 @@ An independent, evolving construction knowledge base. Entries are organized by f
 |---|---|---|---|
 | Fast-Tube | Fabric column forms | [Link](https://www.fast-tube.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Fastfoot | Fabric footing forms | [Link](https://www.fastfoot.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Form-A-Drain | Stay-in-place PVC footing forms with integrated foundation drainage and optional radon collection | [Link](https://www.icfspecialties.com/footings) | [Reference](https://jonesandsons.com/wp-content/uploads/2019/06/form-a-drain-installation-guide.pdf) |
 | Monopour Side Supports | Footing and wall forming | [Link](https://www.monopour.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Prinsco Proform HD | Drainage-integrated footing forms | [Link](https://prinsco.com/proformhd) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Form-A-Drain | Stay-in-place PVC footing forms with integrated foundation drainage and optional radon collection | [Supplier](https://www.icfspecialties.com/footings) | [Installation guide](https://jonesandsons.com/wp-content/uploads/2019/06/form-a-drain-installation-guide.pdf) |
-
-## Ledger & Floor Connections
-
-| Product | Function | Vendor | Source |
-|---|---|---|---|
-| Burmon ICFJH | Direct joist hanger without continuous ledger; nominal widths 1.5, 2.5 and 3.5 inches | [Link](https://burmon.com/icf-joist-hanger/) | [Reference](https://burmon.com/icf-joist-hanger/) |
-| Burmon ICFWL / ICFSL | Cast-in wood and steel ledger brackets | [Link](https://burmon.com/icf-ledgers/) | [Reference](https://burmon.com/icf-ledgers/) |
-| Simpson Strong-Tie ICFVL6 / ICFVL8 | Cast-in ledger connection for wood or steel; select model by foam thickness; wood requires matching W or CW attachment | [Link](https://www.strongtie.com/concrete_miscellaneousconnectors/icfvl6-8_system/p/icfvl) | [Reference](https://www.strongtie.com/concrete_miscellaneousconnectors/icfvl6-8_system/p/icfvl) |
 
 ## Reinforcement Accessories
 
@@ -94,12 +97,15 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Rebar Support Products Locking Spacer Wheels | Locking spacers for bars #3 to #6 | [Link](https://www.rebarsupportproducts.com/plastic-products) | [Reference](https://www.rebarsupportproducts.com/plastic-products) |
 | Rebar Support Products Spacer Wheels | Wall and column reinforcement cover spacers; various cover sizes | [Link](https://www.rebarsupportproducts.com/plastic-products) | [Reference](https://www.rebarsupportproducts.com/plastic-products) |
 
-## Structural Connections
+## Structural Connections & Anchoring
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | Burmon BHB Hurricane Anchor | Truss-to-sill-plate connection | [Link](https://burmon.com/technical/) | [Reference](https://burmon.com/technical/) |
 | Burmon BHBCON Hurricane Anchor | Direct concrete-to-roof-truss connection | [Link](https://burmon.com/technical/) | [Reference](https://burmon.com/technical/) |
+| Burmon ICFJH | Direct joist hanger without continuous ledger; nominal widths 1.5, 2.5 and 3.5 inches | [Link](https://burmon.com/icf-joist-hanger/) | [Reference](https://burmon.com/icf-joist-hanger/) |
+| Burmon ICFWL / ICFSL | Cast-in wood and steel ledger brackets | [Link](https://burmon.com/icf-ledgers/) | [Reference](https://burmon.com/icf-ledgers/) |
+| Simpson Strong-Tie ICFVL6 / ICFVL8 | Cast-in ledger connection for wood or steel; select model by foam thickness; wood requires matching W or CW attachment | [Link](https://www.strongtie.com/concrete_miscellaneousconnectors/icfvl6-8_system/p/icfvl) | [Reference](https://www.strongtie.com/concrete_miscellaneousconnectors/icfvl6-8_system/p/icfvl) |
 
 ## Tools & Accessories
 
@@ -115,15 +121,21 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | Alleguard Amvic | EPS blocks | [Link](https://www.alleguard.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Element ICF | Hybrid preformed and site-assembled ICF blocks; interchangeable panels and Flexties; successor to Logix | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
+| BuildBlock | Reversible EPS blocks; 4, 6 and 8 inch standard cores; specialty shapes | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
+| BuildLock KD | Site-assembled EPS panels; selectable concrete core widths | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
+| Element ICF | Hybrid preassembled and site-assembled ICF blocks; interchangeable panels and Flexties | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
 | Extrutech FORM | Permanent plastic panels | [Link](https://www.epiplastics.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Fox Blocks | EPS wall forms | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | HercuWall | Prefabricated insulated panels | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Nudura | Insulated concrete forms | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| IntegraSpec | Independent EPS panel forming system | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
+| LiteForm | Folding preassembled insulated concrete forms | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
+| Nudura (Tremco) | Insulated concrete forms | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
+| PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
 | Pow-R-Wall | Vertical panel forms | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Quad-Lock | Modular panel forms | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Stronghold | ICF blocks | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | SuperForm | EPS blocks | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| TF Forming Systems | Vertical ICF panels with continuous fastening strips | [Link](https://www.tfsystem.com/) | [Reference](https://www.tfsystem.com/) |
 
 ## Waterproofing
 
@@ -133,13 +145,12 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Protecto Wrap Universal Primer-Free | Self-adhered membrane | [Link](https://www.protectowrap.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Resisto ICF Foundation Membrane | SBS sheet membrane | [Link](https://www.resisto.us) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Rub-R-Wall | Foundation coatings | [Link](https://rubrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| TREMDrain DPI | Drainage and membrane protection board | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
+| TREMdri 160 | Liquid membrane specified for Nudura ICF | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
+| TREMdri 540 | Self-adhered below-grade membrane for Nudura | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 
-## Radon & Termite Protection
+## Technical research
 
-Research queue: subslab soil-gas membranes, sealed penetrations, radon collection piping, physical termite barriers and inspection details. Verify regional code requirements and compatibility with ICF.
-
-## Research queue
-
-- Structural Connections: engineered reinforced-concrete lintels and opening schedules.
-- Concrete Placement: trailer and boom pumps, hose-end assemblies, pump safety and manufacturer-specific consolidation requirements.
-- Finish Attachment Systems: rainscreen furring, fastener specifications and tested gypsum fire-protection assemblies.
+- [NoBuck](research/nobuck.md)
+- [Waterproofing](research/waterproofing.md)
+- [Research queue](research/queue.md)
