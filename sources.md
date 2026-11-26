@@ -7,7 +7,7 @@
 
 ## Research status
 
-Initial index of 34 leads. Directory completeness, issue date, detailed specifications and individual vendor URLs require verification; the annual issue folder was not successfully retrieved. Do not interpret this as an independently tested or exhaustive product guide.
+Independently curated ICF product reference. Directory completeness, issue date, detailed specifications and individual vendor URLs require verification; the annual issue folder was not successfully retrieved. Do not interpret this as an independently tested or exhaustive product guide.
 
 ## Sacrificial EPS forms
 
@@ -17,3 +17,6 @@ Investigate chemical removal of inaccessible EPS blockouts after concrete cure. 
 
 - [Speedfloor joist](https://www.speedfloor.com.au/speedfloor-joist): manufacturer description of composite slab system. US distribution and project-specific structural approval not verified.
 - [Element ICF](https://elementicf.com/): hybrid forms and accessories; [technical library](https://elementicf.com/technical-library/) includes CAD and code documentation. Verify local product sizes and availability.
+
+- [ICF Manufacturers Association](https://icf-ma.org/about-the-icfma/primary-members/): manufacturer cross-check and brand relationships.
+- Individual product sources are maintained in products.csv. The [research queue](research/queue.md) tracks outstanding verification.
