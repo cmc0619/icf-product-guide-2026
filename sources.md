@@ -12,3 +12,8 @@ Initial index of 34 leads. Directory completeness, issue date, detailed specific
 ## Sacrificial EPS forms
 
 Investigate chemical removal of inaccessible EPS blockouts after concrete cure. Full-height shaft applications are unverified; consult suppliers for current SDS, compatibility, ventilation, waste capture, ignition control and residue removal. Embedded ties remain a separate design problem. Fireplace applications require an approved flue system and appropriate clearances.
+
+## Speedfloor and Element ICF
+
+- [Speedfloor joist](https://www.speedfloor.com.au/speedfloor-joist): manufacturer description of composite slab system. US distribution and project-specific structural approval not verified.
+- [Element ICF](https://elementicf.com/): hybrid forms and accessories; [technical library](https://elementicf.com/technical-library/) includes CAD and code documentation. Verify local product sizes and availability.
