@@ -4,7 +4,7 @@ Research leads are not product listings until supported by current sources. Keep
 
 - Audit existing vendor links, current product availability and evaluation reports; remove confirmed discontinued entries.
 - Compare specialty block shapes and core widths by manufacturer.
-- Investigate AeroDeck, hollowcore and other structural floor options.
+- Compare structural floor options (insulated deck forms, steel joist systems, hollowcore) by span, depth and fire rating.
 - Expand EPS-compatible waterproofing, drainage, radon and termite barriers.
 - Investigate cast-in utility sleeves, ICF boxes, Dryerbox and listed appliance vent assemblies.
 - Expand exterior finishes, rainscreens, air/water barriers and tested foam protection assemblies.
@@ -12,6 +12,7 @@ Research leads are not product listings until supported by current sources. Keep
 - Concrete mix, placement, consolidation and blowout repair; use manufacturer-specific limits and primary references.
 - Codes, adopted editions and current product evaluation reports.
 - Keep mechanical systems brief: load calculations, airtightness-driven ventilation, and pre-pour penetrations. No generic HVAC equipment catalog.
-- Automate generation of README product tables from the master CSV; validate sorting, unique entries and links.
+- Fox Blocks bulletin 1.15.01 (Compatible Products) is behind a contact form on foxblocks.com/resources; download it manually and review.
+- Confirm makers for Nurell electrical boxes, and recheck Plastilock, Fortruss, Spancrete and Termimesh sites (unreachable 2026-11-27).
 
 Exclude wood-cement ICF systems. Keep interesting adjacent construction products such as TRUEGRID and Quiet Denim. No vendor-status history; use Git history for removed entries.
