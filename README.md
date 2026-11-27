@@ -70,7 +70,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Black Rattler | External form vibrator | [Link](https://www.giraffebracing.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Durofix vibrator | External form vibrator | [Link](https://www.durofix.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | EVAPRE-RTU | Ready-to-use evaporation retarder for fresh concrete | [Link](https://www.wrmeadows.com) | [Reference](https://www.buildsite.com/pdf/wrmeadows/EVAPRE-RTU-Product-Data-2133379.pdf) |
-| Oztec | Concrete consolidation tools | [Link](https://www.oztec.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Oztec rebar shaker | Vibrator that shakes the rebar to consolidate concrete in ICF cores | [Link](https://www.oztec.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Tephra NP | Natural pozzolan for concrete, mined in Colorado | [Link](https://www.crminerals.com/) | [Reference](https://www.crminerals.com/natural-pozzolan-and-fly-ash-products.php) |
 
 ## Doors, Jambs & Trim
@@ -111,6 +111,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
+| Carlon side-flange PVC boxes | Blue PVC boxes with side mounting flange, fastened to ICF webs | [Link](https://www.abb.com/global/en/areas/electrification/low-voltage/electrical-boxes/non-metallic-boxes/carlon/blue-pvc-boxes) | [Reference](https://www.abb.com/global/en/areas/electrification/low-voltage/electrical-boxes/non-metallic-boxes/carlon/blue-pvc-boxes) |
 | Dryerbox | Recessed in-wall dryer vent box; sized for 2x4 and 2x6 walls | [Link](https://dryerbox.com/) | [Reference](https://dryerbox.com/) |
 | DryerJack | Exterior dryer vent wall termination | [Link](https://dryerjack.com/) | [Reference](https://dryerjack.com/) |
 | Inexo ICF electrical box | Electrical box for ICF | [Link](https://ipexna.com/en-us/solutions/electrical-solutions/specialty-products/inexo-electrical-box-for-insulated-concrete-for-icf/) | [Reference](https://www.powrwall.com/resources/technical-library) |
