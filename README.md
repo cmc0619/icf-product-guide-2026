@@ -26,10 +26,12 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
+| 3M All Weather Flashing Tape 8067 | Acrylic self-adhered flashing tape for openings; bonds to damp surfaces | [Link](https://www.3m.com/3M/en_US/p/d/b40068318/) | [Reference](https://multimedia.3m.com/mws/media/2365805O/3m-window-and-door-flashing-tape-8067.pdf) |
+| Dryvit AquaFlash (Tremco) | Liquid flashing for openings and penetrations | [Link](https://www.dryvit.com/products/aquaflash) | [Reference](https://www.dryvit.com/products/aquaflash) |
 | EnviroDri Field Membrane (Tremco) | Fluid-applied weather barrier | [Link](https://www.tremcocpg.com) | [Reference](https://www.nudura.com/weather-resistant-barrier-with-nudura-icf) |
 | ExoAir 110AT (Tremco) | Flashing sheet | [Link](https://www.tremcocpg.com) | [Reference](https://www.nudura.com/tremco-flashing-solutions-with-nudura-icf) |
 | pro clima Tescon Vana | Airtightness tapes | [Link](https://www.proclima.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
-| Prosoco rough-opening air and water barriers | Fluid-applied barriers for openings and penetrations | [Link](https://prosoco.com/products/air-water-barriers/rough-openings-penetrations/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| Prosoco R-Guard FastFlash | Liquid flashing for rough openings and penetrations | [Link](https://prosoco.com/product/fastflash-roller-grade/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | SIGA Wigluv | Airtightness tapes | [Link](https://www.siga.swiss) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 
 ## Associations
@@ -113,6 +115,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | A-1 Duplex Screw | Duplex screws for ICF | [Link](http://www.a1duplexscrew.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Clearco duplex and specialty screws | ICF fasteners; Clearco also offers a primerless peel-and-stick membrane | [Link](https://www.clearcofasteners.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | HEXDRIVE PRO | Reusable #10 ICF screw: deep hex drive, integrated washer head, thread for thin plastic webs; made in Canada | [Link](https://www.hexdrivepro.com/) | [Reference](https://www.hexdrivepro.com/) |
+| Nudura Hex Head Screw with Washer (Tremco) | #10 hex-head screws, 2 to 3 in., for strapping, bucks and bracing on ICF | [Link](https://www.nudura.com/products/hex-head-screw-with-washer) | [Reference](https://www.nudura.com/products/hex-head-screw-with-washer) |
 | Screw Products YTX | Torx countersunk screws for fastening sheathing to ICF webs | [Link](https://screw-products.com) | [Reference](https://screw-products.com) |
 | Simpson Strong-Tie 2.5 in. framing screws | Framing screws for furring strips into ICF webs | [Link](https://www.strongtie.com) | [Reference](https://www.strongtie.com) |
 | UCAN Zamac Nail Drive Anchors | Anchors fixing form track to footings | [Link](https://ucanfast.com) | [Reference](https://www.quadlock.com/insulated-concrete-forms/accessories.htm) |
@@ -177,6 +180,14 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | FERO ICF Brick Tie and FAST | Through-form brick ties; brackets offsetting steel shelf angles through EPS | [Link](https://ferocorp.com) | [Reference](https://www.strongholdicf.com/wp-content/uploads/2022/09/fero-icf-brick-tie-bulletin.pdf) |
+
+## Pools
+
+| Product | Function | Vendor | Source |
+|---|---|---|---|
+| Basecrete | Flexible cementitious waterproofing and bond coat; maker lists ICF and EPS substrates | [Link](https://www.basecretetechnologies.com/en-us) | [Reference](https://a.storyblok.com/f/287216593115484/x/1a5fd12119/basecretextreme_sellsheet_2025_final-digi.pdf) |
+| Cefil Pool | 60-mil reinforced PVC pool membrane (Edicar Plásticos, Spain) | [Link](https://cefilpool.com/) | [Reference](https://cefilpool.com/) |
+| RENOLIT ALKORPLAN | Reinforced PVC pool membranes | [Link](https://www.renolit.com/en/company/market-units/pool) | [Reference](https://www.renolit.com/en/company/market-units/pool) |
 
 ## Radon & Termite Protection
 
