@@ -37,6 +37,9 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Giraffe | Steel alignment braces | [Link](https://www.giraffebracing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Hilltop ICF Bracing | Wall alignment bracing (Hilltop) | — | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Plumwall | Adjustable alignment braces | [Link](https://www.plumwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Sunforest Foldable ICF Bracing | Integrated folding wall alignment and support assembly | [Link](https://www.icfstech.com/) | [Reference](https://www.icfstech.com/) |
+| Sunforest Simple ICF Bracing | Simplified alignment system for occasional builders | [Link](https://www.icfstech.com/) | [Reference](https://www.icfstech.com/news/simple-icf-bracing-small-contractors/) |
+| Sunforest Standard ICF Bracing | Strongbacks, adjustable legs, platform brackets and safety rails | [Link](https://www.icfstech.com/) | [Reference](https://www.icfstech.com/) |
 | Zont | Lumber-based bracing | [Link](https://www.zontbracing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
 ## Bucking
@@ -207,6 +210,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | Quad-Lock | Modular panel forms | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | R-ETRO | Retrofit insulation system (Quad-Lock) | — | [Reference](https://www.quadlock.com/technical_library/) |
 | Stronghold | ICF blocks | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Sunforest Split ICF | Site-assembled EPS panels with straight, corner and tee configurations | [Link](https://www.icfstech.com/) | [Reference](https://www.icfstech.com/split-icf-wall-system/split-icf-wall-system-manufacturer/) |
 | SuperForm | EPS blocks | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | TF Forming Systems | Vertical ICF panels with continuous fastening strips | [Link](https://www.tfsystem.com/) | [Reference](https://www.tfsystem.com/) |
 
