@@ -12,6 +12,8 @@ from collections import defaultdict
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TAIL = "## Technical research"
+WALLS = "Wall Systems"
+FLAGS = ["Bucks", "Brick Ledge", "R-Value Inserts"]  # maker's own options, Y or blank
 
 
 def load():
@@ -28,6 +30,11 @@ def load():
             errors.append(f"line {i}: {r['Product']!r} has no source URL")
         if r["Vendor"] and not r["Vendor"].startswith("http"):
             errors.append(f"line {i}: {r['Product']!r} vendor is not a URL")
+        for flag in FLAGS:
+            if r[flag] not in ("", "Y"):
+                errors.append(f"line {i}: {r['Product']!r} {flag} must be Y or blank")
+            if r[flag] and r["Category"] != WALLS:
+                errors.append(f"line {i}: {flag} is only for {WALLS}")
     if errors:
         sys.exit("\n".join(errors))
     return rows
@@ -43,10 +50,18 @@ def tables(rows):
         by_cat[r["Category"]].append(r)
     out = []
     for cat in sorted(by_cat, key=str.lower):
-        out += [f"## {cat}", "", "| Product | Function | Vendor | Source |", "|---|---|---|---|"]
+        walls = cat == WALLS
+        out += [f"## {cat}", ""]
+        if walls:
+            out += ["✓ means the maker sells its own version. Blank means not confirmed, so check the maker's site.", ""]
+            out += ["| Product | Function | " + " | ".join(FLAGS) + " | Vendor | Source |",
+                    "|---|---|" + "---|" * len(FLAGS) + "---|---|"]
+        else:
+            out += ["| Product | Function | Vendor | Source |", "|---|---|---|---|"]
         for r in sorted(by_cat[cat], key=lambda r: r["Product"].lower().strip('"')):
             vendor = f"[Link]({r['Vendor']})" if r["Vendor"] else "—"
-            out.append(f"| {cell(r['Product'])} | {cell(r['Function'])} | {vendor} | [Reference]({r['Source']}) |")
+            ticks = "".join(f" {'✓' if r[f] else ''} |" for f in FLAGS) if walls else ""
+            out.append(f"| {cell(r['Product'])} | {cell(r['Function'])} |{ticks} {vendor} | [Reference]({r['Source']}) |")
         out.append("")
     return out
 
