@@ -69,7 +69,9 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 |---|---|---|---|
 | Black Rattler | External form vibrator | [Link](https://www.giraffebracing.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Durofix vibrator | External form vibrator | [Link](https://www.durofix.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
+| EVAPRE-RTU | Ready-to-use evaporation retarder for fresh concrete (W.R. Meadows) | [Link](https://www.wrmeadows.com) | [Reference](https://www.buildsite.com/pdf/wrmeadows/EVAPRE-RTU-Product-Data-2133379.pdf) |
 | Oztec | Concrete consolidation tools | [Link](https://www.oztec.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Tephra NP | Natural pozzolan for concrete, mined in Colorado (CR Minerals) | [Link](https://www.crminerals.com/) | [Reference](https://www.crminerals.com/natural-pozzolan-and-fly-ash-products.php) |
 
 ## Doors, Jambs & Trim
 
@@ -87,8 +89,13 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
+| Architectura SA | ICF architecture firm, San Antonio | [Link](https://www.architecturasa.com/) | [Reference](https://www.architecturasa.com/) |
 | Dave Gowers Engineering | ICF structural engineering | [Link](https://dgengineering.com) | [Reference](https://www.icfmag.com/pdf_dl/2026/) |
+| IDES Global | ICF structural engineering, licensed in most states | [Link](https://ides-global.com/) | [Reference](https://ides-global.com/) |
 | Innovative Drafting & Design | ICF design | [Link](https://www.buildwithicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Rightway Performance Solutions | Third-party Manual J/S/D load calculations and HVAC design | [Link](https://www.rightwayperformancesolutions.com/) | [Reference](https://www.rightwayperformancesolutions.com/) |
+| Robert Klob Designs | ICF stock and custom plans, permit sets, plan reviews and load calcs | [Link](https://www.rkdzns.com/) | [Reference](https://www.rkdzns.com/) |
+| Stafford Designs | Custom ICF home design | [Link](https://stafforddesignsllc.com/) | [Reference](https://stafforddesignsllc.com/) |
 
 ## Drainage
 
@@ -105,6 +112,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | Inexo ICF electrical box | Electrical box for ICF | [Link](https://ipexna.com/en-us/solutions/electrical-solutions/specialty-products/inexo-electrical-box-for-insulated-concrete-for-icf/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| Legrand Slater 18 cu. in. bracket box | Single-gang nail-on bracket box fastened to ICF webs | [Link](https://www.legrand.us) | [Reference](https://www.legrand.us) |
 | Nurell nylon electrical box | Box installed in interior foam | — | [Reference](https://www.tfsystem.com/faqs/) |
 | Plastilock electrical boxes | ICF electrical boxes | — | [Reference](https://www.quadlock.com/insulated-concrete-forms/accessories.htm) |
 
@@ -173,6 +181,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Mono Slab EZ Form | Monolithic slab and footing forms | [Link](https://monoslabezform.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Monopour Side Supports | Footing and wall forming | [Link](https://www.monopour.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Prinsco Proform HD | Drainage-integrated footing forms | [Link](https://prinsco.com/proformhd) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Spider Tie | Open-web form ties for site-built plywood forms, flat or curved walls (Smart Tie International) | [Link](https://www.smarttieinternational.com/) | [Reference](https://www.smarttieinternational.com/) |
 | The Foothold | ICF footing system | [Link](https://thefootholdicf.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 
 ## Masonry Veneer & Brick Ledge
@@ -185,7 +194,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
-| Basecrete | Flexible cementitious waterproofing and bond coat; maker lists ICF and EPS substrates | [Link](https://www.basecretetechnologies.com/en-us) | [Reference](https://a.storyblok.com/f/287216593115484/x/1a5fd12119/basecretextreme_sellsheet_2025_final-digi.pdf) |
+| Basecrete | Flexible cementitious waterproofing and bond coat; Xtreme version is fiber-reinforced. Maker lists ICF and EPS substrates | [Link](https://www.basecretetechnologies.com/en-us) | [Reference](https://a.storyblok.com/f/287216593115484/x/1a5fd12119/basecretextreme_sellsheet_2025_final-digi.pdf) |
 | Cefil Pool | 60-mil reinforced PVC pool membrane (Edicar Plásticos, Spain) | [Link](https://cefilpool.com/) | [Reference](https://cefilpool.com/) |
 | RENOLIT ALKORPLAN | Reinforced PVC pool membranes | [Link](https://www.renolit.com/en/company/market-units/pool) | [Reference](https://www.renolit.com/en/company/market-units/pool) |
 
@@ -213,6 +222,12 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Rebar Support Products Spacer Wheels | Wall and column reinforcement cover spacers; various cover sizes | [Link](https://www.rebarsupportproducts.com/plastic-products) | [Reference](https://www.rebarsupportproducts.com/plastic-products) |
 | SFT-Bar | GFRP reinforcement; ICF compatibility letter | [Link](https://sftec.ca) | [Reference](https://elementicf.com/wp-content/uploads/2026/07/Letter-SFT-Bar-with-Element-ICF-Systems.pdf) |
 | V-ROD | GFRP reinforcement; ICF compatibility letter | [Link](https://pultrall.com) | [Reference](https://elementicf.com/wp-content/uploads/2026/07/Statement-letter-V-ROD-in-Element-ICF-1.pdf) |
+
+## Sheathing & Boards
+
+| Product | Function | Vendor | Source |
+|---|---|---|---|
+| NEXGEN MAXTERRA MgO boards | Sulfate-based magnesium oxide sheathing, subfloor and wall board | [Link](https://nexgenbp.com/) | [Reference](https://nexgenbp.com/products) |
 
 ## Structural Connections & Anchoring
 
