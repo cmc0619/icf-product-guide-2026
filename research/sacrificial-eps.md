@@ -1,12 +1,5 @@
 # Sacrificial EPS forms
 
-Research lead, not a tested method: use EPS as a stay-in-place blockout where it can't be reached after the pour, then remove it chemically once the concrete has cured.
+Use EPS as a blockout you can't reach after the pour, then dissolve it once the concrete cures. Products: Norsekem Poly-Dissolve and Simply Precast Poly Clean.
 
-Products in the guide: Norsekem Poly-Dissolve and Simply Precast Poly Clean (see products.csv, Tools & Accessories).
-
-## Open questions
-
-- Full-height shaft applications are unverified.
-- Get current SDS from suppliers, and confirm compatibility, ventilation, waste capture, ignition control and residue removal.
-- Embedded form ties remain a separate design problem.
-- Fireplace applications need an approved flue system and the required clearances.
+Untested at full height. Get the current SDS and plan for ventilation, ignition sources, waste and residue. Form ties stay in the concrete. A fireplace use still needs a listed flue and the required clearances.
