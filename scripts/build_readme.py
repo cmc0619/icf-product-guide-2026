@@ -57,7 +57,7 @@ def tables(rows):
     for r in rows:
         by_cat[r["Category"]].append(r)
     out = []
-    for cat in sorted(by_cat, key=str.lower):
+    for cat in sorted(by_cat, key=lambda c: (c != WALLS, c.lower())):  # wall systems first
         walls = cat == WALLS
         out += [f"## {cat}", ""]
         if walls:
