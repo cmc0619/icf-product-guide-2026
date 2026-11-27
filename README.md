@@ -6,7 +6,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 [Filterable CSV](products.csv) · [Sources](sources.md)
 
-**EPS compatibility:** Solvent-based coatings, primers and adhesives can dissolve EPS. Use products explicitly approved for the form and substrate. See [waterproofing notes](research/waterproofing.md).
+**EPS compatibility:** Solvent-based coatings, primers and adhesives can dissolve EPS. Use products the form maker approves.
 
 ## Adhesives & Sealants
 
@@ -285,7 +285,6 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 ## Technical research
 
 - ["NoBuck"](research/nobuck.md)
-- [Waterproofing](research/waterproofing.md)
 - [Research queue](research/queue.md)
 
 Entries a manufacturer recommends are leads. Check availability and approvals before you build.
