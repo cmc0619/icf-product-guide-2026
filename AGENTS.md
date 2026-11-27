@@ -10,3 +10,4 @@
 - Prefer durable functional descriptions over time-relative wording, ownership history, prices or marketing claims. Retain useful brand/parent relationships such as Nudura (Tremco).
 - Exclude wood-cement ICF; retain interesting adjacent products. Keep HVAC guidance brief and tied to construction interfaces.
 - Preserve dated primary research and its test limitations.
+- products.csv is the master list. After editing it, run `python scripts/build_readme.py` to rebuild the README tables; it fails on duplicate products, missing sources and non-URL vendors. Fill Vendor with the maker's URL and give each row a specific Verification note naming who listed it.
