@@ -65,7 +65,6 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Prebuck | Engineered lumber bucks | [Link](https://www.prebuckproducts.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Pro Buck | EPS opening panels (Element ICF) | [Link](https://elementicf.com) | [Reference](https://elementicf.com/products/pro-buck/) |
 | Santa Fe Bucks | Angled opening bucks (IntegraSpec) | [Link](https://integraspec.com) | [Reference](https://integraspec.com/wp-content/uploads/2024/05/Integraspec-Catalogue-Eng_23.pdf) |
-| Stala IFAs | Steel opening frames | [Link](https://www.stalaframing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
 ## Concrete Placement
 
@@ -85,6 +84,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Extrutech D9000 / DD9000 | Single and double polymer doors | [Link](https://epiplastics.com/products/Pre-Hung-Doors-Door-Panels/) | [Reference](https://epiplastics.com/products/Pre-Hung-Doors-Door-Panels/) |
 | Extrutech EX1000 / EX1001 | Solid cellular PVC jambs; 4-9/16 and 6-9/16 inch frame options | [Link](https://epiplastics.com/products/Door-Frames-Jambs-Trims/) | [Reference](https://epiplastics.com/products/Door-Frames-Jambs-Trims/) |
 | Extrutech EX1010 / EX7244 | 2-inch jamb extension and optional aluminum nailing fin | [Link](https://epiplastics.com/express-order/) | [Reference](https://epiplastics.com/express-order/) |
+| Stala IFAs | Steel door frames for ICF walls | [Link](https://www.stalaframing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
 ## Drafting & Design
 
