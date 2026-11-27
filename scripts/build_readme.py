@@ -22,7 +22,7 @@ ORDER = [
     "Concrete Placement", "Footings & Forming", "Under-Slab", "Flooring & Decking",
     "Structural Connections & Anchoring", "Air & Weather Barriers",
     "Radon & Termite (The concrete eating ones) Protection", "Electrical & Penetrations",
-    "Finish Attachment Systems", "Masonry Veneer & Brick Ledge", "Doors, Jambs & Trim",
+    "Finish Attachment Systems", "Reflective Siding & Coatings", "Masonry Veneer & Brick Ledge", "Doors, Jambs & Trim",
     "Adhesives & Sealants", "Sheathing & Boards", "Foam Cutting & Shaping",
     "Tools & Accessories", "Drafting & Design", "Pools", "Associations",
 ]

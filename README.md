@@ -223,6 +223,15 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Total Wall | Stucco and EIFS for ICF | [Link](https://totalwall.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Traditional stucco over mechanically attached lath | Method: fasten lath to approved ICF webs; verify assembly requirements | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
 
+## Reflective Siding & Coatings
+
+| Product | Function | Vendor | Source |
+|---|---|---|---|
+| Mastic SolarDefense siding | Vinyl siding with a heat-reflecting cooling compound so dark colors resist heat distortion | [Link](https://www.plygem.com/mastic/siding-materials/solar-defense/) | [Reference](https://www.plygem.com/mastic/siding-materials/solar-defense/) |
+| ProVia Tri-Pigment Reflective siding | Vinyl siding with inorganic heat-reflecting pigments | [Link](https://www.provia.com/siding/technology/) | [Reference](https://www.provia.com/siding/technology/) |
+| Royal Chromatix siding | Vinyl siding with infrared-reflecting pigments that cut heat buildup | [Link](https://www.westlakeroyalbuildingproducts.com/siding-and-accessories/royal-siding/royal-residential-siding) | [Reference](https://www.westlakeroyalbuildingproducts.com/siding-and-accessories/royal-siding/royal-residential-siding) |
+| Sherwin-Williams VinylSafe paint | Paint colors formulated so vinyl siding can go darker without warping | [Link](https://www.sherwin-williams.com/architects-specifiers-designers/education/paint-and-color-technology/sw-art-pro-vinylsafecolortech.html) | [Reference](https://www.sherwin-williams.com/architects-specifiers-designers/education/paint-and-color-technology/sw-art-pro-vinylsafecolortech.html) |
+
 ## Masonry Veneer & Brick Ledge
 
 | Product | Function | Vendor | Source |
