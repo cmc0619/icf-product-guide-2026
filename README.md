@@ -51,7 +51,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | End Buck | Slide-in insulated end piece (SuperForm) | — | [Reference](https://www.superformicf.com/icf/) |
 | Fox Buck | Insulated vinyl/EPS buck (Fox Blocks) | — | [Reference](https://www.foxblocks.com/products/accessories) |
 | IntegraBucks | EPS bucks (IntegraSpec) | — | [Reference](https://integraspec.com/wp-content/uploads/2024/05/Integraspec-Catalogue-Eng_23.pdf) |
-| NoBuck (RDH Module 4 — direct to concrete) | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Link](https://www.bchousing.org/) | [Reference](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf) |
+| "NoBuck" (RDH Module 4 — direct to concrete) | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Link](https://www.bchousing.org/) | [Reference](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf) |
 | Prebuck | Engineered lumber bucks | [Link](https://www.prebuckproducts.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Pro Buck | EPS opening panels (Element ICF) | — | [Reference](https://elementicf.com/products/pro-buck/) |
 | Santa Fe Bucks | Angled opening bucks (IntegraSpec) | — | [Reference](https://integraspec.com/wp-content/uploads/2024/05/Integraspec-Catalogue-Eng_23.pdf) |
@@ -232,7 +232,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 
 ## Technical research
 
-- [NoBuck](research/nobuck.md)
+- ["NoBuck"](research/nobuck.md)
 - [Waterproofing](research/waterproofing.md)
 - [Research queue](research/queue.md)
 
