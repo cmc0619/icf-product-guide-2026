@@ -41,18 +41,18 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Superior Alignment EX-120 | Wall alignment brace | [Link](https://www.superioralignmentsystems.com/) | [Reference](https://icfmag.com/2012/09/turnbuckle-bracing-a-market-comparison/) |
 | Zont | Lumber-based bracing with Zuckle brackets | [Link](https://fab-form.com/en/zont-icf-bracing/overview/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
-## Fasteners
+## Fasteners: Facebook / Vendor Word of Mouth
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
-| A-1 Duplex Screw | Duplex screws for ICF | [Link](http://www.a1duplexscrew.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
-| Clearco duplex and specialty screws | ICF fasteners; Clearco also offers a primerless peel-and-stick membrane | [Link](https://www.clearcofasteners.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| A-1 Duplex Screw (Pow-R-Wall) | Duplex screws for ICF | [Link](http://www.a1duplexscrew.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| Clearco duplex and specialty screws (Pow-R-Wall) | ICF fasteners; Clearco also offers a primerless peel-and-stick membrane | [Link](https://www.clearcofasteners.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | HEXDRIVE PRO | Reusable #10 ICF screw: deep hex drive, integrated washer head, thread for thin plastic webs; made in Canada | [Link](https://www.hexdrivepro.com/) | [Reference](https://www.hexdrivepro.com/) |
 | Nudura Hex Head Screw with Washer (Tremco) | #10 hex-head screws, 2 to 3 in., for strapping, bucks and bracing on ICF | [Link](https://www.nudura.com/products/hex-head-screw-with-washer) | [Reference](https://www.nudura.com/products/hex-head-screw-with-washer) |
 | Screw Products YTX | Torx countersunk screws for fastening sheathing to ICF webs | [Link](https://screw-products.com) | [Reference](https://screw-products.com) |
 | Simpson Strong-Tie 2.5 in. framing screws | Framing screws for furring strips into ICF webs | [Link](https://www.strongtie.com) | [Reference](https://www.strongtie.com) |
-| UCAN Zamac Nail Drive Anchors | Anchors fixing form track to footings | [Link](https://ucanfast.com) | [Reference](https://www.quadlock.com/insulated-concrete-forms/accessories.htm) |
-| Wind-lock fasteners | ICF fasteners and accessories | [Link](https://wind-lock.com/building-materials-supplies/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| UCAN Zamac Nail Drive Anchors (Quad-Lock) | Anchors fixing form track to footings | [Link](https://ucanfast.com) | [Reference](https://www.quadlock.com/insulated-concrete-forms/accessories.htm) |
+| Wind-lock fasteners (Pow-R-Wall) | ICF fasteners and accessories | [Link](https://wind-lock.com/building-materials-supplies/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 
 ## Bucking
 

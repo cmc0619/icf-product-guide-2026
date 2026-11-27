@@ -18,7 +18,7 @@ BASE = ["Category", "Product", "Function", "Vendor", "Source", "Verification"]
 # Add a checkbox by adding a column to products.csv; no code change needed.
 # README section order. Categories not listed here follow alphabetically.
 ORDER = [
-    "ICF Blocks", "Bracing", "Fasteners", "Bucking", "Rebar", "Waterproofing & Drainage",
+    "ICF Blocks", "Bracing", "Fasteners: Facebook / Vendor Word of Mouth", "Bucking", "Rebar", "Waterproofing & Drainage",
     "Concrete Placement", "Footings & Forming", "Under-Slab", "Flooring & Decking",
     "Structural Connections & Anchoring", "Air & Weather Barriers",
     "Radon & Termite (The concrete eating ones) Protection", "Electrical & Penetrations",
