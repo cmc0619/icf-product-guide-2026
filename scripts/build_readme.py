@@ -14,8 +14,18 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 TAIL = "## Technical research"
 WALLS = "ICF Blocks"
 BASE = ["Category", "Product", "Function", "Vendor", "Source", "Verification"]
-# Every CSV column after BASE is a ICF Blocks checkbox: Y = offered, O = the only format, blank = not confirmed.
+# Every CSV column after BASE is an ICF Blocks checkbox: Y = offered, O = the only format, blank = not confirmed.
 # Add a checkbox by adding a column to products.csv; no code change needed.
+# README section order. Categories not listed here follow alphabetically.
+ORDER = [
+    "ICF Blocks", "Bracing", "Fasteners", "Bucking", "Rebar", "Waterproofing & Drainage",
+    "Concrete Placement", "Footings & Forming", "Under-Slab", "Flooring & Decking",
+    "Structural Connections & Anchoring", "Air & Weather Barriers",
+    "Radon & Termite (The concrete eating ones) Protection", "Electrical & Penetrations",
+    "Finish Attachment Systems", "Masonry Veneer & Brick Ledge", "Doors, Jambs & Trim",
+    "Adhesives & Sealants", "Sheathing & Boards", "Foam Cutting & Shaping",
+    "Tools & Accessories", "Drafting & Design", "Pools", "Associations",
+]
 FLAGS = []
 MARK = {"": "", "Y": "✓", "O": "Only"}
 
@@ -57,7 +67,8 @@ def tables(rows):
     for r in rows:
         by_cat[r["Category"]].append(r)
     out = []
-    for cat in sorted(by_cat, key=lambda c: (c != WALLS, c.lower())):  # wall systems first
+    rank = {c: i for i, c in enumerate(ORDER)}
+    for cat in sorted(by_cat, key=lambda c: (rank.get(c, len(ORDER)), c.lower())):
         walls = cat == WALLS
         out += [f"## {cat}", ""]
         if walls:
