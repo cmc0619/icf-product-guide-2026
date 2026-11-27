@@ -109,6 +109,9 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 |---|---|---|---|
 | A-1 Duplex Screw | Duplex screws for ICF | [Link](http://www.a1duplexscrew.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Clearco duplex and specialty screws | ICF fasteners; Clearco also offers a primerless peel-and-stick membrane | [Link](https://www.clearcofasteners.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| HEXDRIVE PRO | ICF screw: deep hex drive, high/low thread for plastic webs, integrated washer head | — | [Reference](https://www.facebook.com/search/top?q=HEXDRIVE%20PRO%20ICF) |
+| Screw Products YTX | Torx countersunk screws for fastening sheathing to ICF webs | [Link](https://screw-products.com) | [Reference](https://www.facebook.com/search/top?q=YTX%20screws%20ICF) |
+| Simpson Strong-Tie 2.5 in. framing screws | Framing screws for furring strips into ICF webs | [Link](https://www.strongtie.com) | [Reference](https://www.facebook.com/search/top?q=Simpson%20screws%20ICF%20furring) |
 | UCAN Zamac Nail Drive Anchors | Anchors fixing form track to footings (UCAN) | [Link](https://ucanfast.com) | [Reference](https://www.quadlock.com/insulated-concrete-forms/accessories.htm) |
 | Wind-lock fasteners | ICF fasteners and accessories (Wind-lock) | [Link](https://wind-lock.com/building-materials-supplies/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 
