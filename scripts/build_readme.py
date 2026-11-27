@@ -14,9 +14,10 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 TAIL = "## Technical research"
 WALLS = "Wall Systems"
 BASE = ["Category", "Product", "Function", "Vendor", "Source", "Verification"]
-# Every CSV column after BASE is a Wall Systems checkbox (Y or blank).
+# Every CSV column after BASE is a Wall Systems checkbox: Y = offered, O = the only format, blank = not confirmed.
 # Add a checkbox by adding a column to products.csv; no code change needed.
 FLAGS = []
+MARK = {"": "", "Y": "✓", "O": "Only"}
 
 
 def load():
@@ -38,8 +39,8 @@ def load():
         if r["Vendor"] and not r["Vendor"].startswith("http"):
             errors.append(f"line {i}: {r['Product']!r} vendor is not a URL")
         for flag in FLAGS:
-            if r[flag] not in ("", "Y"):
-                errors.append(f"line {i}: {r['Product']!r} {flag} must be Y or blank")
+            if r[flag] not in ("", "Y", "O"):
+                errors.append(f"line {i}: {r['Product']!r} {flag} must be Y, O or blank")
             if r[flag] and r["Category"] != WALLS:
                 errors.append(f"line {i}: {flag} is only for {WALLS}")
     if errors:
@@ -60,14 +61,14 @@ def tables(rows):
         walls = cat == WALLS
         out += [f"## {cat}", ""]
         if walls:
-            out += ["✓ means the maker sells its own version. Blank means not confirmed, so check the maker's site.", ""]
+            out += ["✓ means the maker sells its own version. Only means it's the only format they make. Blank means not confirmed, so check the maker's site.", ""]
             out += ["| Product | Function | " + " | ".join(FLAGS) + " | Vendor | Source |",
                     "|---|---|" + "---|" * len(FLAGS) + "---|---|"]
         else:
             out += ["| Product | Function | Vendor | Source |", "|---|---|---|---|"]
         for r in sorted(by_cat[cat], key=lambda r: r["Product"].lower().strip('"')):
             vendor = f"[Link]({r['Vendor']})" if r["Vendor"] else "—"
-            ticks = "".join(f" {'✓' if r[f] else ''} |" for f in FLAGS) if walls else ""
+            ticks = "".join(f" {MARK[r[f]]} |" for f in FLAGS) if walls else ""
             out.append(f"| {cell(r['Product'])} | {cell(r['Function'])} |{ticks} {vendor} | [Reference]({r['Source']}) |")
         out.append("")
     return out
