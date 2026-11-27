@@ -292,7 +292,6 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 - ["NoBuck"](research/nobuck.md)
 - [Waterproofing](research/waterproofing.md)
-- [Sacrificial EPS forms](research/sacrificial-eps.md)
 - [Research queue](research/queue.md)
 
 Entries a manufacturer recommends are leads. Check availability and approvals before you build.
