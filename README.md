@@ -260,13 +260,13 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Blueskin WP2000 (Henry) | Self-adhered below-grade membrane | [Link](https://www.henry.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Colphene ICF (Soprema) | Self-adhered ICF membrane | [Link](https://www.soprema.us) | [Reference](https://alleguard.com/wp-content/uploads/Colphene-ICF-Brochure.pdf) |
 | Hulk Composite | Reinforced coating | [Link](https://hulksystem.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Hygrothane SwiftProof M 200 (Elastochem) | Spray-applied pure polyurea below-grade membrane | [Link](https://www.elastochem.com) | [Reference](https://res.cloudinary.com/elastochem/image/upload/v1752603716/Hygrothane_SwiftProof_M_200_TDS_Rev1_m5dj10.pdf) |
 | IntegraProoF (IntegraSpec) | SBS self-adhered membrane | [Link](https://integraspec.com) | [Reference](https://integraspec.com/wp-content/uploads/2024/05/Integraspec-Catalogue-Eng_23.pdf) |
 | MEL-ROL (W.R. Meadows) | Self-adhered membrane | [Link](https://www.wrmeadows.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Polyguard 650 | Self-adhered membrane | [Link](https://polyguard.com) | [Reference](https://store.buildblock.com/accessories/waterproofing/polyguard-products/) |
 | Protecto Wrap Universal Primer-Free | Self-adhered membrane | [Link](https://www.protectowrap.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Resisto ICF Foundation Membrane | SBS sheet membrane | [Link](https://www.resisto.us) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Rub-R-Wall (Resilient Building Products) | Foundation coatings | [Link](https://rubrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Spray polyurea membranes | Spray-applied pure polyurea below-grade membrane, e.g. Hygrothane SwiftProof M 200 (Elastochem) | [Link](https://www.elastochem.com) | [Reference](https://res.cloudinary.com/elastochem/image/upload/v1752603716/Hygrothane_SwiftProof_M_200_TDS_Rev1_m5dj10.pdf) |
 | TAMKO TW-60 | Self-adhered membrane | [Link](https://www.tamko.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | TREMDrain DPI (Tremco) | Drainage and membrane protection board | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 | TREMdri 160 (Tremco) | Liquid membrane specified for Nudura ICF | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
