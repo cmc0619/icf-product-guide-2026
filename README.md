@@ -63,6 +63,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | LSL / LVL engineered lumber bucks | Engineered lumber bucks that resist the warping common with PT lumber | — | [Reference](https://www.nudura.com/blog/window-bucks-for-icf-construction) |
 | "NoBuck" | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Link](https://www.bchousing.org/) | [Reference](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf) |
 | Pressure-treated lumber bucks | Ground-contact PT lumber, usually 2x12, ripped to block width; common for doors | — | [Reference](https://buildblock.com/how-to-build-an-icf-home/icf-door-window-openings/) |
+| PT Firewood | "But why?!" - When only the worst wood will do | [Link](https://www.84lumber.com) | [Reference](https://podcasts.apple.com/us/podcast/the-build-with-icf-podcast/id1668412729) |
 | ThermalBuck | EPS buck with a polyurethane shell for window and door perimeters | [Link](https://thermalbuck.com) | [Reference](https://icc-es.org/wp-content/uploads/report-directory/ESR-3753.pdf) |
 
 ## Rebar
