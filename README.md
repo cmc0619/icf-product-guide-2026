@@ -160,6 +160,13 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Total Joist | Steel joist floor system; formerly iSpan | [Link](https://www.bailey-structural.com/systems/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Trade Ready Floor System | Steel joist floor with concrete deck | [Link](https://www.clarkdietrich.com) | [Reference](https://buildblock.com/how-to-build-an-icf-house/roofing-insulation/) |
 
+## Roofing
+
+| Product | Function | Vendor | Source |
+|---|---|---|---|
+| Kirsch SharkSkin Ultra SA | Self-adhered synthetic roof underlayment | — | [Reference](https://floridabuilding.org/upload/PR_Tech_Docs/FL40958_R0_AE_1_Sharkskin_EVALREPORT.pdf) |
+| ZIP System roof sheathing | OSB roof sheathing with integrated water-resistive barrier; seams taped | [Link](https://www.huberwood.com/zip-system/roof-sheathing) | [Reference](https://www.huberwood.com/zip-system/roof-sheathing) |
+
 ## Structural Connections & Anchoring
 
 | Product | Function | Vendor | Source |
@@ -319,13 +326,6 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | WICFA | Industry association | [Link](https://wicfa.org) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-
-## Roofing
-
-| Product | Function | Vendor | Source |
-|---|---|---|---|
-| Kirsch SharkSkin Ultra SA | Self-adhered synthetic roof underlayment | — | [Reference](https://floridabuilding.org/upload/PR_Tech_Docs/FL40958_R0_AE_1_Sharkskin_EVALREPORT.pdf) |
-| ZIP System roof sheathing | OSB roof sheathing with integrated water-resistive barrier; seams taped | [Link](https://www.huberwood.com/zip-system/roof-sheathing) | [Reference](https://www.huberwood.com/zip-system/roof-sheathing) |
 
 ## Technical research
 

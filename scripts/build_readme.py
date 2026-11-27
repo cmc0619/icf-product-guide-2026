@@ -19,7 +19,7 @@ BASE = ["Category", "Product", "Function", "Vendor", "Source", "Verification"]
 # README section order. Categories not listed here follow alphabetically.
 ORDER = [
     "ICF Blocks", "Bracing", "Fasteners: Facebook / Vendor Word of Mouth", "Bucking", "Rebar", "Waterproofing & Drainage",
-    "Concrete Placement", "Footings & Forming", "Under-Slab", "Flooring & Decking",
+    "Concrete Placement", "Footings & Forming", "Under-Slab", "Flooring & Decking", "Roofing",
     "Structural Connections & Anchoring", "Air & Weather Barriers",
     "Radon & Termite (The concrete eating ones) Protection", "Electrical & Penetrations",
     "Finish Attachment Systems", "Reflective Siding & Coatings", "Masonry Veneer & Brick Ledge", "Doors, Jambs & Trim",
