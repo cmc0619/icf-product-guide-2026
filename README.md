@@ -1,7 +1,5 @@
 # ICF product guide
 
-Interesting stuff I found for building with ICF.
-
 A collection of ICF products sourced from AI scouring the interwebs for my own build in 2026.
 
 [Filterable CSV](products.csv) · [Sources](sources.md) · [ICF Builder comparison chart, 2026](https://icfmag.com/wp-content/uploads/2017/09/ICF_Comp_Chart.pdf): core sizes, ties, fire ratings and code approvals by maker
