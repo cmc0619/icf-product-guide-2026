@@ -270,6 +270,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 |---|---|---|---|
 | Ambient MagPanel | Sulfate-based magnesium oxide wall and floor panels | [Link](https://www.ambientbp.com/) | [Reference](https://www.ambientbp.com/pdf/MagPanel-MgCl-vs-MgSO4-Composition.pdf) |
 | NEXGEN MAXTERRA MgO boards | Sulfate-based magnesium oxide sheathing, subfloor and wall board | [Link](https://nexgenbp.com/) | [Reference](https://nexgenbp.com/products) |
+| Styrobar Plus (Element ICF) | EPS board laminated both sides with clear or reflective polypropylene film; wall, roof and below-grade insulation | [Link](https://amcfoam.com/products/styrobar-plus/) | [Reference](https://amcfoam.com/wp-content/uploads/Styrobar-Plus-2025.pdf) |
 
 ## Foam Cutting & Shaping
 
