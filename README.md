@@ -202,7 +202,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Cefil Pool | 60-mil reinforced PVC pool membrane | [Link](https://cefilpool.com/) | [Reference](https://cefilpool.com/) |
 | RENOLIT ALKORPLAN | Reinforced PVC pool membranes | [Link](https://www.renolit.com/en/company/market-units/pool) | [Reference](https://www.renolit.com/en/company/market-units/pool) |
 
-## Radon & Termite Protection
+## Radon & Termite (The concrete eating ones) Protection
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
