@@ -133,7 +133,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
-| Comslab | Composite steel floor deck (BMP Group) | [Link](https://www.bmp-group.com/products/comslab) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| Comslab | Long-span deep steel deck composite floor (Bailey Metal Products) | [Link](https://www.bmp-group.com/products/comslab) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Crete-Heat | Radiant tubing insulation panels | [Link](https://www.crete-heat.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Fortruss Floor & Roof System | Engineered floor and roof panels bearing on ICF (Fortruss) | — | [Reference](https://elementicf.com/wp-content/uploads/2024/02/5.6.4.1-Fortruss-Floor-and-Roof-System-El.pdf) |
 | Hambro D500 | Composite steel joists | [Link](https://www.hambro.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
