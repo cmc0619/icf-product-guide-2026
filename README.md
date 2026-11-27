@@ -124,7 +124,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | BuildCrete | Reinforced coating system for compatible ICF substrates | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
-| Dryvit Outsulation over Nudura | Exterior insulation finish assembly with moisture-drainage option | [Link](https://tremcocpg.com/our-approach/whole-wall-systems) | [Reference](https://tremcocpg.com/our-approach/whole-wall-systems) |
+| Dryvit Outsulation over Nudura | Exterior insulation finish assembly with moisture-drainage option (Dryvit, a Tremco brand) | [Link](https://tremcocpg.com/our-approach/whole-wall-systems) | [Reference](https://tremcocpg.com/our-approach/whole-wall-systems) |
 | DuRock B2000 | Parging base coat with reinforcing mesh (DuRock Alfacing) | [Link](https://www.durock.com) | [Reference](https://alleguard.com/wp-content/uploads/Durock-B2000-Data-Sheet.pdf) |
 | Extrutech P1300 / P1600 / P2400 | PVC wall and ceiling liner panels; manufacturer lists ESR-4583; verify assembly scope | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
 | Master Wall ICF stucco | Stucco systems for ICF (Master Wall) | [Link](https://masterwall.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
@@ -245,7 +245,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  |  | ✓ | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
 | Nudura (Tremco) | Insulated concrete forms | ✓ |  | ✓ |  |  |  |  | ✓ | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
 | PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
-| Pow-R-Wall | Vertical panel forms |  |  |  |  |  |  |  | ✓ | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Pow-R-Wall | Vertical panel forms (Resilient Building Products) |  |  |  |  |  |  |  | ✓ | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Quad-Lock | Modular panel forms |  | ✓ |  |  | ✓ | ✓ | Only |  | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | R-ETRO | Retrofit insulation system (Quad-Lock) |  |  |  |  |  |  |  |  | [Link](https://www.quadlock.com) | [Reference](https://www.quadlock.com/technical_library/) |
 | Stronghold | ICF blocks |  | ✓ | ✓ |  |  |  |  |  | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
@@ -265,10 +265,10 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Polyguard 650 | Self-adhered membrane (Polyguard) | [Link](https://polyguard.com) | [Reference](https://store.buildblock.com/accessories/waterproofing/polyguard-products/) |
 | Protecto Wrap Universal Primer-Free | Self-adhered membrane | [Link](https://www.protectowrap.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Resisto ICF Foundation Membrane | SBS sheet membrane | [Link](https://www.resisto.us) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Rub-R-Wall | Foundation coatings | [Link](https://rubrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Rub-R-Wall | Foundation coatings (Resilient Building Products, also owns Pow-R-Wall) | [Link](https://rubrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Spray polyurea membranes | Spray-applied pure polyurea below-grade membrane, e.g. Hygrothane SwiftProof M 200 (Elastochem) | [Link](https://www.elastochem.com) | [Reference](https://res.cloudinary.com/elastochem/image/upload/v1752603716/Hygrothane_SwiftProof_M_200_TDS_Rev1_m5dj10.pdf) |
 | TAMKO TW-60 | Self-adhered membrane (TAMKO) | [Link](https://www.tamko.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
-| TREMDrain DPI | Drainage and membrane protection board | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
+| TREMDrain DPI | Drainage and membrane protection board (Tremco) | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 | TREMdri 160 | Liquid membrane specified for Nudura ICF | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 | TREMdri 540 | Self-adhered below-grade membrane for Nudura | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 | TUFF-N-DRI | Spray-applied polymer-modified foundation membrane (Tremco) | [Link](https://www.tremcosealants.com) | [Reference](https://www.tremcosealants.com/resource/download/TUFF-N-DRI_Application_Features_and_Benefits.pdf) |
