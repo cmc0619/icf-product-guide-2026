@@ -18,7 +18,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Foam2Foam | Low-expansion polyurethane adhesive and gap filler for ICF | [Link](https://store.buildblock.com/accessories/tools/00wlccv11-foam2foam-kit-foam-11x-cleaner-1x-gloves-foam-gun) | [Reference](https://store.buildblock.com/accessories/tools/00wlccv11-foam2foam-kit-foam-11x-cleaner-1x-gloves-foam-gun) |
 | Fox Foam (Fox Blocks) | Single-component foam adhesive | [Link](https://www.foxblocks.com) | [Reference](https://www.foxblocks.com/products/accessories/fox-foam) |
 | Great Stuff Pro / Enerfoam | Spray foam sealants | [Link](https://greatstuff.dupont.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
-| Nudura Low Expansion Foam | Foam for joints and penetrations | [Link](https://www.nudura.com) | [Reference](https://www.nudura.com/products) |
+| Nudura Low Expansion Foam (Tremco) | Foam for joints and penetrations | [Link](https://www.nudura.com) | [Reference](https://www.nudura.com/products) |
 | PL 300 | Foam-board adhesive; Loctite and LePage branding | [Link](https://www.loctiteproducts.com/en/products/build/construction-adhesives/pl-pro-line/loctite_pl_300_vocfoamboardadhesive.html) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Tytan foam adhesive | Polyurethane foam adhesive for EPS | [Link](https://tytan.com) | [Reference](https://liteform.com/products/accessories.html) |
 
@@ -56,7 +56,6 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 |---|---|---|---|
 | AdvanTech ripped bucks | Site-made bucks ripped from AdvanTech panels | [Link](https://www.huberwood.com/advantech) | [Reference](https://www.huberwood.com/advantech) |
 | Burmon SBBB Buck Brace | Temporary bracing for window and door openings during placement | [Link](https://burmon.com/icf-solutions/) | [Reference](https://burmon.com/icf-solutions/) |
-| Gorilla Buck | Window and door buck system | [Link](https://benchmarkfoam.com/products/gorilla-buck/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | LSL / LVL engineered lumber bucks | Engineered lumber bucks that resist the warping common with PT lumber | — | [Reference](https://www.nudura.com/blog/window-bucks-for-icf-construction) |
 | "NoBuck" | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Link](https://www.bchousing.org/) | [Reference](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf) |
 | Pressure-treated lumber bucks | Ground-contact PT lumber, usually 2x12, ripped to block width; common for doors | — | [Reference](https://buildblock.com/how-to-build-an-icf-home/icf-door-window-openings/) |
@@ -123,14 +122,14 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
-| BuildCrete | Reinforced coating system for compatible ICF substrates | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
+| BuildCrete (BuildBlock) | Reinforced coating system for compatible ICF substrates | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
 | Dryvit Outsulation over Nudura (Tremco) | Exterior insulation finish assembly with moisture-drainage option | [Link](https://tremcocpg.com/our-approach/whole-wall-systems) | [Reference](https://tremcocpg.com/our-approach/whole-wall-systems) |
 | DuRock B2000 | Parging base coat with reinforcing mesh | [Link](https://www.durock.com) | [Reference](https://alleguard.com/wp-content/uploads/Durock-B2000-Data-Sheet.pdf) |
 | Extrutech P1300 / P1600 / P2400 | PVC wall and ceiling liner panels; manufacturer lists ESR-4583; verify assembly scope | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
 | Master Wall ICF stucco | Stucco systems for ICF | [Link](https://masterwall.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Multi-Coat | Stucco and coatings for ICF | [Link](https://multicoat.com/waterproofing/) | [Reference](https://www.powrwall.com/resources/technical-library) |
-| Nudura Horizon and Nubase parge coats | Roll, spray or trowel coatings for exposed EPS | [Link](https://www.nudura.com) | [Reference](https://www.nudura.com/cladding-solutions-for-nudura-icf) |
-| Nudura integral fastening strips | Embedded strips for mechanical attachment of interior gypsum and exterior cladding; not attachment to EPS alone | [Link](https://www.nudura.com/icf-education/icf-101) | [Reference](https://www.nudura.com/icf-education/icf-101) |
+| Nudura Horizon and Nubase parge coats (Tremco) | Roll, spray or trowel coatings for exposed EPS | [Link](https://www.nudura.com) | [Reference](https://www.nudura.com/cladding-solutions-for-nudura-icf) |
+| Nudura integral fastening strips (Tremco) | Embedded strips for mechanical attachment of interior gypsum and exterior cladding; not attachment to EPS alone | [Link](https://www.nudura.com/icf-education/icf-101) | [Reference](https://www.nudura.com/icf-education/icf-101) |
 | Parex ACF for ICF | Architectural coating and finish assemblies | [Link](https://usa.sika.com/en/construction/plaza-decks/Architectural-Coating-Finishing-Assemblies.html) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Sto stucco | Stucco and EIFS over ICF | [Link](https://www.stocorp.com/stucco/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Total Wall | Stucco and EIFS for ICF | [Link](https://totalwall.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
@@ -247,8 +246,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | PolySteel | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
 | Pow-R-Wall (Resilient Building Products) | Vertical panel forms |  |  |  |  |  |  |  | ✓ | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Quad-Lock | Modular panel forms |  | ✓ |  |  | ✓ | ✓ | Only |  | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| R-ETRO (Quad-Lock) | Retrofit insulation system |  |  |  |  |  |  |  |  | [Link](https://www.quadlock.com) | [Reference](https://www.quadlock.com/technical_library/) |
-| Stronghold | ICF blocks |  | ✓ | ✓ |  |  |  |  |  | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Stronghold (Benchmark Foam) | ICF blocks | ✓ | ✓ | ✓ |  |  |  |  | ✓ | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | SuperForm | EPS blocks | ✓ |  | ✓ | ✓ |  |  |  |  | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | TF Forming Systems | Vertical ICF panels with continuous fastening strips |  |  |  |  |  |  |  |  | [Link](https://www.tfsystem.com/) | [Reference](https://www.tfsystem.com/) |
 
