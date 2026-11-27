@@ -10,5 +10,5 @@
 - Prefer durable functional descriptions over time-relative wording, ownership history, prices or marketing claims. Retain useful brand/parent relationships such as Nudura (Tremco).
 - Exclude wood-cement ICF; retain interesting adjacent products. Keep HVAC guidance brief and tied to construction interfaces.
 - Preserve dated primary research and its test limitations.
-- products.csv is the master list. After editing it, run `python scripts/build_readme.py` to rebuild the README tables; it fails on duplicate products, missing sources and non-URL vendors. Fill Vendor with the maker's URL and give each row a specific Verification note naming who listed it.
+- Edit products.csv only. Never edit the product tables in README.md: a GitHub Action rebuilds them from the CSV on every push to main (`scripts/build_readme.py`). The Action fails on duplicate products, missing sources, non-URL vendors and misplaced option flags, so check its run after pushing. Fill Vendor with the maker's URL and give each row a specific Verification note naming who listed it.
 - Accessories that only work with one maker's forms (its own bucks, brick ledges, R-value inserts) aren't listed as products. Mark them Y in that maker's Wall Systems row instead. Third-party accessories that work across brands keep their own rows.
