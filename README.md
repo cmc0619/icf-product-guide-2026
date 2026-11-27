@@ -230,29 +230,27 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 ✓ means the maker sells its own version. Blank means not confirmed, so check the maker's site.
 
-| Product | Function | Bucks | Brick Ledge | R-Value Inserts | Vendor | Source |
-|---|---|---|---|---|---|---|
-| Alleguard Amvic | EPS blocks | ✓ | ✓ |  | [Link](https://www.alleguard.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Amvic One | Single-sided insulated concrete form (Alleguard) |  |  |  | [Link](https://alleguard.com) | [Reference](https://alleguard.com/products/construction/icf/amvic-one/) |
-| BuildBlock | Reversible EPS blocks; 4, 6 and 8 inch standard cores; specialty shapes | ✓ |  | ✓ | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
-| BuildLock KD | Site-assembled EPS panels; selectable concrete core widths |  |  |  | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
-| Element Chrome | Graphite EPS panels (Element ICF) |  |  |  | [Link](https://elementicf.com) | [Reference](https://elementicf.com/products/element-icf-chrome/) |
-| Element ICF | Hybrid preassembled and site-assembled ICF blocks; interchangeable panels and Flexties | ✓ | ✓ | ✓ | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
-| Extrutech FORM | P824 permanent PVC concrete wall forms; manufacturer lists ESR-4250; not conventional EPS ICF |  |  |  | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
-| Fox Blocks | EPS wall forms | ✓ | ✓ | ✓ | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| HercuWall | Prefabricated insulated panels |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| IntegraECF | Exposed concrete face option (IntegraSpec) |  |  |  | [Link](https://integraspec.com) | [Reference](https://integraspec.com/wp-content/uploads/2024/05/Integraspec-Catalogue-Eng_23.pdf) |
-| IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
-| LiteForm | Folding preassembled insulated concrete forms |  |  |  | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
-| LiteForm Tilt | Insulated tilt-up forms (LiteForm) |  |  |  | [Link](https://liteform.com) | [Reference](https://liteform.com/products/liteform-tilt.html) |
-| Nudura (Tremco) | Insulated concrete forms |  |  | ✓ | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
-| PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
-| Pow-R-Wall | Vertical panel forms |  |  |  | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Quad-Lock | Modular panel forms |  | ✓ |  | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| R-ETRO | Retrofit insulation system (Quad-Lock) |  |  |  | [Link](https://www.quadlock.com) | [Reference](https://www.quadlock.com/technical_library/) |
-| Stronghold | ICF blocks |  | ✓ | ✓ | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| SuperForm | EPS blocks | ✓ |  | ✓ | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| TF Forming Systems | Vertical ICF panels with continuous fastening strips |  |  |  | [Link](https://www.tfsystem.com/) | [Reference](https://www.tfsystem.com/) |
+| Product | Function | Bucks | Brick Ledge | R-Value Inserts | One-Sided | Graphite EPS | Radius | Vendor | Source |
+|---|---|---|---|---|---|---|---|---|---|
+| Alleguard Amvic | EPS blocks | ✓ | ✓ |  | ✓ |  |  | [Link](https://www.alleguard.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| BuildBlock | Reversible EPS blocks; 4, 6 and 8 inch standard cores; specialty shapes | ✓ |  | ✓ |  |  | ✓ | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
+| BuildLock KD | Site-assembled EPS panels; selectable concrete core widths |  |  |  |  |  |  | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
+| Element ICF | Hybrid preassembled and site-assembled ICF blocks; interchangeable panels and Flexties | ✓ | ✓ | ✓ |  | ✓ |  | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
+| Extrutech FORM | P824 permanent PVC concrete wall forms; manufacturer lists ESR-4250; not conventional EPS ICF |  |  |  |  |  |  | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
+| Fox Blocks | EPS wall forms | ✓ | ✓ | ✓ |  |  | ✓ | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| HercuWall | Prefabricated insulated panels |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| IntegraECF | Exposed concrete face option (IntegraSpec) |  |  |  |  |  |  | [Link](https://integraspec.com) | [Reference](https://integraspec.com/wp-content/uploads/2024/05/Integraspec-Catalogue-Eng_23.pdf) |
+| IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ |  |  |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
+| LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
+| LiteForm Tilt | Insulated tilt-up forms (LiteForm) |  |  |  |  |  |  | [Link](https://liteform.com) | [Reference](https://liteform.com/products/liteform-tilt.html) |
+| Nudura (Tremco) | Insulated concrete forms |  |  | ✓ |  |  |  | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
+| PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
+| Pow-R-Wall | Vertical panel forms |  |  |  |  |  |  | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Quad-Lock | Modular panel forms |  | ✓ |  |  | ✓ | ✓ | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| R-ETRO | Retrofit insulation system (Quad-Lock) |  |  |  |  |  |  | [Link](https://www.quadlock.com) | [Reference](https://www.quadlock.com/technical_library/) |
+| Stronghold | ICF blocks |  | ✓ | ✓ |  |  |  | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| SuperForm | EPS blocks | ✓ |  | ✓ | ✓ |  |  | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| TF Forming Systems | Vertical ICF panels with continuous fastening strips |  |  |  |  |  |  | [Link](https://www.tfsystem.com/) | [Reference](https://www.tfsystem.com/) |
 
 ## Waterproofing
 

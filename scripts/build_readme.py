@@ -13,12 +13,19 @@ from collections import defaultdict
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TAIL = "## Technical research"
 WALLS = "Wall Systems"
-FLAGS = ["Bucks", "Brick Ledge", "R-Value Inserts"]  # maker's own options, Y or blank
+BASE = ["Category", "Product", "Function", "Vendor", "Source", "Verification"]
+# Every CSV column after BASE is a Wall Systems checkbox (Y or blank).
+# Add a checkbox by adding a column to products.csv; no code change needed.
+FLAGS = []
 
 
 def load():
     with open(ROOT / "products.csv", encoding="utf-8", newline="") as f:
-        rows = list(csv.DictReader(f))
+        reader = csv.DictReader(f)
+        rows = list(reader)
+    if reader.fieldnames[:len(BASE)] != BASE:
+        sys.exit(f"products.csv must start with columns {BASE}")
+    FLAGS[:] = reader.fieldnames[len(BASE):]
     errors = []
     seen = set()
     for i, r in enumerate(rows, start=2):
