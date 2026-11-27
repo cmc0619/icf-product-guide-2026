@@ -44,6 +44,16 @@ An independent, evolving construction knowledge base. Entries are organized by f
 |---|---|---|---|
 | Oztec | Concrete consolidation tools | [Link](https://www.oztec.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
+## Doors, Jambs & Trim
+
+| Product | Function | Vendor | Source |
+|---|---|---|---|
+| Extrutech CB1700 / CB1710 / CB1720 | Rigid hollow PVC jamb and extensions | [Link](https://epiplastics.com/express-order/) | [Reference](https://epiplastics.com/express-order/) |
+| Extrutech CB2000 / WM180 | PVC sill and brickmould profiles | [Link](https://epiplastics.com/express-order/) | [Reference](https://epiplastics.com/express-order/) |
+| Extrutech D9000 / DD9000 | Single and double polymer doors | [Link](https://epiplastics.com/products/Pre-Hung-Doors-Door-Panels/) | [Reference](https://epiplastics.com/products/Pre-Hung-Doors-Door-Panels/) |
+| Extrutech EX1000 / EX1001 | Solid cellular PVC jambs; 4-9/16 and 6-9/16 inch frame options | [Link](https://epiplastics.com/products/Door-Frames-Jambs-Trims/) | [Reference](https://epiplastics.com/products/Door-Frames-Jambs-Trims/) |
+| Extrutech EX1010 / EX7244 | 2-inch jamb extension and optional aluminum nailing fin | [Link](https://epiplastics.com/express-order/) | [Reference](https://epiplastics.com/express-order/) |
+
 ## Drafting & Design
 
 | Product | Function | Vendor | Source |
@@ -56,6 +66,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 |---|---|---|---|
 | BuildCrete | Reinforced coating system for compatible ICF substrates | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
 | Dryvit Outsulation over Nudura | Exterior insulation finish assembly with moisture-drainage option | [Link](https://tremcocpg.com/our-approach/whole-wall-systems) | [Reference](https://tremcocpg.com/our-approach/whole-wall-systems) |
+| Extrutech P1300 / P1600 / P2400 | PVC wall and ceiling liner panels; manufacturer lists ESR-4583; verify assembly scope | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
 | Nudura integral fastening strips | Embedded strips for mechanical attachment of interior gypsum and exterior cladding; not attachment to EPS alone | [Link](https://www.nudura.com/icf-education/icf-101) | [Reference](https://www.nudura.com/icf-education/icf-101) |
 | Traditional stucco over mechanically attached lath | Method: fasten lath to approved ICF webs; verify assembly requirements | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
 
@@ -124,7 +135,7 @@ An independent, evolving construction knowledge base. Entries are organized by f
 | BuildBlock | Reversible EPS blocks; 4, 6 and 8 inch standard cores; specialty shapes | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
 | BuildLock KD | Site-assembled EPS panels; selectable concrete core widths | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
 | Element ICF | Hybrid preassembled and site-assembled ICF blocks; interchangeable panels and Flexties | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
-| Extrutech FORM | Permanent plastic panels | [Link](https://www.epiplastics.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Extrutech FORM | P824 permanent PVC concrete wall forms; manufacturer lists ESR-4250; not conventional EPS ICF | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
 | Fox Blocks | EPS wall forms | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | HercuWall | Prefabricated insulated panels | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | IntegraSpec | Independent EPS panel forming system | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
