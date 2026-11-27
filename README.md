@@ -177,7 +177,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Fast-Tube | Fabric column forms | [Link](https://fab-form.com/en/fast-tube/overview/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Fastfoot | Fabric footing forms | [Link](https://fab-form.com/en/fastfoot-residential/overview/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Form-A-Drain | Stay-in-place PVC footing forms with integrated foundation drainage and optional radon collection | [Link](https://www.formadrainsolutions.com/) | [Reference](https://www.formadrainsolutions.com/) |
-| Level-R | Steel form stake with a drill-driven threaded adjuster that sets footing and slab form boards to laser grade | [Link](https://fab-form.com/en/level-r/overview) | [Reference](https://fab-form.com/en/level-r/overview) |
+| Level-R | Steel stake with a drill-driven threaded adjuster; sets footing and slab form boards to laser grade, or screws to the side of ICF forms to level them before a pour | [Link](https://fab-form.com/en/level-r/overview) | [Reference](https://fab-form.com/en/level-r/overview) |
 | LiteFoot (Tremco) | Frost-protected shallow footing system | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litefoot.html) |
 | Mono Slab EZ Form | Monolithic slab and footing forms | [Link](https://monoslabezform.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Monopour Side Supports | Footing and wall forming | [Link](https://fab-form.com/en/monopour/mpss-overview) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
