@@ -47,16 +47,21 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Hilltop ICF Bracing | Wall alignment bracing (Hilltop) | [Link](https://www.hilltopmanufacturing.com/icf-bracing) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Plumwall | Adjustable alignment braces | [Link](https://www.plumwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Sunforest ICF Bracing | Standard, foldable and simple wall alignment systems | [Link](https://www.icfstech.com/) | [Reference](https://www.icfstech.com/) |
-| Zont | Lumber-based bracing | [Link](https://www.zontbracing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Superior Brace | Wall alignment brace (Superior Alignment Systems) | — | [Reference](https://icfmag.com/2012/09/turnbuckle-bracing-a-market-comparison/) |
+| Zont | Lumber-based bracing with Zuckle brackets (Fab-Form) | [Link](https://www.zontbracing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
 ## Bucking
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
+| AdvanTech ripped bucks | Site-made bucks ripped from AdvanTech panels (Huber) | [Link](https://www.huberwood.com/advantech) | [Reference](https://www.huberwood.com/advantech) |
 | Burmon SBBB Buck Brace | Temporary bracing for window and door openings during placement | [Link](https://burmon.com/icf-solutions/) | [Reference](https://burmon.com/icf-solutions/) |
 | Gorilla Buck | Window and door buck system (Benchmark Foam) | [Link](https://benchmarkfoam.com/products/gorilla-buck/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| LSL / LVL engineered lumber bucks | Engineered lumber bucks that resist the warping common with PT lumber | — | [Reference](https://www.nudura.com/blog/window-bucks-for-icf-construction) |
 | "NoBuck" (RDH Module 4 — direct to concrete) | Buckless window installation; temporary form removed, frame anchored to concrete, backer rod and silicone seals; 5000 Pa lab / 700 Pa field water test | [Link](https://www.bchousing.org/) | [Reference](https://www.bchousing.org/publications/ICF-Field-Test-Report.pdf) |
-| Prebuck | Engineered lumber bucks | [Link](https://www.prebuckproducts.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Prebuck | LSL bucks rated for direct concrete contact; routed back grooves lock into the pour (Tremco) | [Link](https://www.tremcosealants.com/systems/prebuck) | [Reference](https://www.nudura.com/blog/window-bucks-for-icf-construction) |
+| Pressure-treated lumber bucks | Ground-contact PT lumber, usually 2x12, ripped to block width; common for doors | — | [Reference](https://buildblock.com/how-to-build-an-icf-home/icf-door-window-openings/) |
+| ThermalBuck | EPS buck with a polyurethane shell for window and door perimeters | [Link](https://thermalbuck.com) | [Reference](https://icc-es.org/wp-content/uploads/report-directory/ESR-3753.pdf) |
 
 ## Concrete Placement
 
@@ -109,9 +114,9 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 |---|---|---|---|
 | A-1 Duplex Screw | Duplex screws for ICF | [Link](http://www.a1duplexscrew.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Clearco duplex and specialty screws | ICF fasteners; Clearco also offers a primerless peel-and-stick membrane | [Link](https://www.clearcofasteners.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
-| HEXDRIVE PRO | ICF screw: deep hex drive, high/low thread for plastic webs, integrated washer head | — | [Reference](https://www.facebook.com/search/top?q=HEXDRIVE%20PRO%20ICF) |
-| Screw Products YTX | Torx countersunk screws for fastening sheathing to ICF webs | [Link](https://screw-products.com) | [Reference](https://www.facebook.com/search/top?q=YTX%20screws%20ICF) |
-| Simpson Strong-Tie 2.5 in. framing screws | Framing screws for furring strips into ICF webs | [Link](https://www.strongtie.com) | [Reference](https://www.facebook.com/search/top?q=Simpson%20screws%20ICF%20furring) |
+| HEXDRIVE PRO | Reusable #10 ICF screw: deep hex drive, integrated washer head, thread for thin plastic webs; made in Canada | [Link](https://www.hexdrivepro.com/) | [Reference](https://www.hexdrivepro.com/) |
+| Screw Products YTX | Torx countersunk screws for fastening sheathing to ICF webs | [Link](https://screw-products.com) | [Reference](https://screw-products.com) |
+| Simpson Strong-Tie 2.5 in. framing screws | Framing screws for furring strips into ICF webs | [Link](https://www.strongtie.com) | [Reference](https://www.strongtie.com) |
 | UCAN Zamac Nail Drive Anchors | Anchors fixing form track to footings (UCAN) | [Link](https://ucanfast.com) | [Reference](https://www.quadlock.com/insulated-concrete-forms/accessories.htm) |
 | Wind-lock fasteners | ICF fasteners and accessories (Wind-lock) | [Link](https://wind-lock.com/building-materials-supplies/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 
@@ -237,6 +242,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Fox Blocks | EPS wall forms | ✓ | ✓ | ✓ |  |  | ✓ |  |  | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | HercuWall | Prefabricated insulated panels |  |  |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | ✓ |  |  | Only |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
+| Izodom | EPS ICF blocks; Polish manufacturer; US supply not established |  |  |  |  |  |  |  |  | [Link](https://izodom.com) | [Reference](https://izodom.com) |
 | LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  |  | ✓ | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
 | Nudura (Tremco) | Insulated concrete forms |  |  | ✓ |  |  |  |  | ✓ | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
 | PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
@@ -261,10 +267,12 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Protecto Wrap Universal Primer-Free | Self-adhered membrane | [Link](https://www.protectowrap.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Resisto ICF Foundation Membrane | SBS sheet membrane | [Link](https://www.resisto.us) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Rub-R-Wall | Foundation coatings | [Link](https://rubrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Spray polyurea membranes | Spray-applied pure polyurea below-grade membrane, e.g. Hygrothane SwiftProof M 200 (Elastochem) | [Link](https://www.elastochem.com) | [Reference](https://res.cloudinary.com/elastochem/image/upload/v1752603716/Hygrothane_SwiftProof_M_200_TDS_Rev1_m5dj10.pdf) |
 | TAMKO TW-60 | Self-adhered membrane (TAMKO) | [Link](https://www.tamko.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | TREMDrain DPI | Drainage and membrane protection board | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 | TREMdri 160 | Liquid membrane specified for Nudura ICF | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 | TREMdri 540 | Self-adhered below-grade membrane for Nudura | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
+| TUFF-N-DRI | Spray-applied polymer-modified foundation membrane (Tremco) | [Link](https://www.tremcosealants.com) | [Reference](https://www.tremcosealants.com/resource/download/TUFF-N-DRI_Application_Features_and_Benefits.pdf) |
 
 ## Technical research
 
