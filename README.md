@@ -169,7 +169,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Fast-Tube | Fabric column forms | [Link](https://www.fast-tube.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Fastfoot | Fabric footing forms | [Link](https://www.fastfoot.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Form-A-Drain | Stay-in-place PVC footing forms with integrated foundation drainage and optional radon collection | [Link](https://www.icfspecialties.com/footings) | [Reference](https://jonesandsons.com/wp-content/uploads/2019/06/form-a-drain-installation-guide.pdf) |
-| LiteFoot (LiteForm) | Frost-protected shallow footing system | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litefoot.html) |
+| LiteFoot (Tremco) | Frost-protected shallow footing system | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litefoot.html) |
 | Mono Slab EZ Form | Monolithic slab and footing forms | [Link](https://monoslabezform.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Monopour Side Supports | Footing and wall forming | [Link](https://www.monopour.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Prinsco Proform HD | Drainage-integrated footing forms | [Link](https://prinsco.com/proformhd) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
@@ -205,7 +205,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | GatorBar | Fiberglass rebar and bends, #3-#5; ICC ESR-4526 per maker | [Link](https://gatorbar.com) | [Reference](https://gatorbar.com) |
 | Greenbar2X | GFRP reinforcement; compatibility letter | [Link](https://mateenbar.com) | [Reference](https://elementicf.com/wp-content/uploads/2026/07/Mateenbar-Letter-for-Element-ICF.pdf) |
 | Helix Steel | Twisted steel micro-reinforcement | [Link](https://www.helixsteel.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
-| LiteBar (LiteForm) | GFRP reinforcement | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litebar/litebar.html) |
+| LiteBar (Tremco) | GFRP reinforcement | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litebar/litebar.html) |
 | MST-BAR | Fiberglass rebar | [Link](https://www.mstbar.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Pow-R-Bar (Pow-R-Wall) | GFRP reinforcement | [Link](https://www.powrwall.com) | [Reference](https://www.powrwall.com/product) |
 | Rebar Support Products Foundation Footer Chairs | Supports multiple footing bars with clamping saddles | [Link](https://www.rebarsupportproducts.com/plastic-products) | [Reference](https://www.rebarsupportproducts.com/plastic-products) |
@@ -232,7 +232,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | Cutting Edge Saw BNCE-20 | Flush rebar cutter | [Link](https://www.bnproducts.com) | [Reference](https://buildblock.com/products/accessories/rebar-cutters/) |
-| LiteFill (LiteForm) | Lightweight EPS fill | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litefill.html) |
+| LiteFill (Tremco) | Lightweight EPS fill | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litefill.html) |
 | Norsekem Poly-Dissolve | Chemical removal of sacrificial EPS | [Link](https://www.norsekem.co.uk/wp-content/uploads/Poly-Dissolve-data-sheet.pdf) | [Reference](https://www.norsekem.co.uk/wp-content/uploads/Poly-Dissolve-data-sheet.pdf) |
 | Quiet Denim | Denim insulation | [Link](https://www.quietdeniminsulation.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Simply Precast Poly Clean | Chemical removal of sacrificial EPS | [Link](https://simplyprecast.co.uk/wp-content/uploads/2021/04/Poly-Clean-Data-Sheet-2016.pdf) | [Reference](https://simplyprecast.co.uk/wp-content/uploads/2021/04/Poly-Clean-Data-Sheet-2016.pdf) |
@@ -252,7 +252,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | HercuWall | Prefabricated insulated panels |  |  |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | ✓ |  |  | Only |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
 | Izodom | EPS ICF blocks; Polish manufacturer; US supply not established |  |  |  |  |  |  |  |  | [Link](https://izodom.com) | [Reference](https://izodom.com) |
-| LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  |  | ✓ | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
+| LiteForm (Tremco) | Folding preassembled insulated concrete forms |  |  |  |  |  |  |  | ✓ | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
 | Nudura (Tremco) | Insulated concrete forms | ✓ |  | ✓ |  |  |  |  | ✓ | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
 | PolySteel | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
 | Pow-R-Wall (Resilient Building Products) | Vertical panel forms |  |  |  |  |  |  |  | ✓ | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
