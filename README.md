@@ -50,7 +50,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Plumwall | Adjustable alignment braces | [Link](https://www.plumwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Sunforest ICF Bracing | Standard, foldable and simple wall alignment systems | [Link](https://www.icfstech.com/) | [Reference](https://www.icfstech.com/) |
 | Superior Brace | Wall alignment brace | — | [Reference](https://icfmag.com/2012/09/turnbuckle-bracing-a-market-comparison/) |
-| Zont | Lumber-based bracing with Zuckle brackets | [Link](https://www.zontbracing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Zont | Lumber-based bracing with Zuckle brackets | [Link](https://fab-form.com/en/zont-icf-bracing/overview/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
 ## Bucking
 
@@ -70,7 +70,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Black Rattler | External form vibrator | [Link](https://www.giraffebracing.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Durofix vibrator | External form vibrator | [Link](https://www.durofix.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | EVAPRE-RTU | Ready-to-use evaporation retarder for fresh concrete (W.R. Meadows) | [Link](https://www.wrmeadows.com) | [Reference](https://www.buildsite.com/pdf/wrmeadows/EVAPRE-RTU-Product-Data-2133379.pdf) |
-| Oztec | Concrete consolidation tools | [Link](https://www.oztec.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Oztec | Concrete consolidation tools | — | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Tephra NP | Natural pozzolan for concrete, mined in Colorado (CR Minerals) | [Link](https://www.crminerals.com/) | [Reference](https://www.crminerals.com/natural-pozzolan-and-fly-ash-products.php) |
 
 ## Doors, Jambs & Trim
@@ -153,8 +153,8 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Comslab | Long-span deep steel deck composite floor | [Link](https://www.bmp-group.com/products/comslab) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Crete-Heat | Radiant tubing insulation panels | [Link](https://www.crete-heat.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Fortruss Floor & Roof System | Engineered floor and roof panels bearing on ICF | — | [Reference](https://elementicf.com/wp-content/uploads/2024/02/5.6.4.1-Fortruss-Floor-and-Roof-System-El.pdf) |
-| Hambro D500 | Composite steel joists | [Link](https://www.hambro.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Insul-Deck | Insulated slab forms | [Link](https://www.insul-deck.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Hambro D500 | Composite steel joists | [Link](https://www.canam.com/en/product/hambro-composite-floor-system/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Insul-Deck | Insulated slab forms | [Link](https://www.insuldeck.com/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Metwood | Cold-formed steel floor and roof products | [Link](https://www.metwood.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Spancrete hollow-core | Precast hollow-core plank | — | [Reference](https://elementicf.com/technical-library/) |
 | Speedfloor | Composite suspended concrete floor; galvanized cold-formed steel joists; typical 100 mm slab; manufacturer states no propping; service openings | [Link](https://www.speedfloor.com.au/) | [Reference](https://www.speedfloor.com.au/speedfloor-joist) |
@@ -174,12 +174,12 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
-| Fast-Tube | Fabric column forms | [Link](https://www.fast-tube.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Fastfoot | Fabric footing forms | [Link](https://www.fastfoot.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Form-A-Drain | Stay-in-place PVC footing forms with integrated foundation drainage and optional radon collection | [Link](https://www.icfspecialties.com/footings) | [Reference](https://jonesandsons.com/wp-content/uploads/2019/06/form-a-drain-installation-guide.pdf) |
+| Fast-Tube | Fabric column forms | [Link](https://fab-form.com/en/fast-tube/overview/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Fastfoot | Fabric footing forms | [Link](https://fab-form.com/en/fastfoot-residential/overview/) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Form-A-Drain | Stay-in-place PVC footing forms with integrated foundation drainage and optional radon collection | [Link](https://www.formadrainsolutions.com/) | [Reference](https://www.formadrainsolutions.com/) |
 | LiteFoot (Tremco) | Frost-protected shallow footing system | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litefoot.html) |
 | Mono Slab EZ Form | Monolithic slab and footing forms | [Link](https://monoslabezform.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
-| Monopour Side Supports | Footing and wall forming | [Link](https://www.monopour.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Monopour Side Supports | Footing and wall forming | [Link](https://fab-form.com/en/monopour/mpss-overview) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Prinsco Proform HD | Drainage-integrated footing forms | [Link](https://prinsco.com/proformhd) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Spider Tie | Open-web form ties for site-built plywood forms, flat or curved walls (Smart Tie International) | [Link](https://www.smarttieinternational.com/) | [Reference](https://www.smarttieinternational.com/) |
 | The Foothold | ICF footing system | [Link](https://thefootholdicf.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
@@ -227,6 +227,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
+| Ambient MagPanel | Sulfate-based magnesium oxide wall and floor panels | [Link](https://www.ambientbp.com/) | [Reference](https://www.ambientbp.com/pdf/MagPanel-MgCl-vs-MgSO4-Composition.pdf) |
 | NEXGEN MAXTERRA MgO boards | Sulfate-based magnesium oxide sheathing, subfloor and wall board | [Link](https://nexgenbp.com/) | [Reference](https://nexgenbp.com/products) |
 
 ## Structural Connections & Anchoring
@@ -264,7 +265,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Element ICF | Hybrid preassembled and site-assembled ICF blocks; interchangeable panels and Flexties | ✓ | ✓ | ✓ |  | ✓ |  | ✓ |  | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
 | Extrutech FORM | P824 permanent PVC concrete wall forms; manufacturer lists ESR-4250; not conventional EPS ICF |  |  |  |  |  |  |  |  | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
 | Fox Blocks | EPS wall forms | ✓ | ✓ | ✓ |  |  | ✓ |  |  | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| HercuWall | Prefabricated insulated panels |  |  |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| HercuWall (Tremco) | Prefabricated insulated concrete wall panels |  |  |  |  |  |  |  |  | [Link](https://www.nudura.com/products/hercuwall) | [Reference](https://www.nudura.com/products/hercuwall) |
 | IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | ✓ |  |  | Only |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
 | Izodom | EPS ICF blocks; Polish manufacturer; US supply not established |  |  |  |  |  |  |  |  | [Link](https://izodom.com) | [Reference](https://izodom.com) |
 | LiteForm (Tremco) | Folding preassembled insulated concrete forms |  |  |  |  |  |  |  | ✓ | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
