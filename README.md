@@ -269,8 +269,8 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Spray polyurea membranes | Spray-applied pure polyurea below-grade membrane, e.g. Hygrothane SwiftProof M 200 (Elastochem) | [Link](https://www.elastochem.com) | [Reference](https://res.cloudinary.com/elastochem/image/upload/v1752603716/Hygrothane_SwiftProof_M_200_TDS_Rev1_m5dj10.pdf) |
 | TAMKO TW-60 | Self-adhered membrane | [Link](https://www.tamko.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | TREMDrain DPI (Tremco) | Drainage and membrane protection board | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
-| TREMdri 160 | Liquid membrane specified for Nudura ICF | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
-| TREMdri 540 | Self-adhered below-grade membrane for Nudura | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
+| TREMdri 160 (Tremco) | Liquid membrane specified for Nudura ICF | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
+| TREMdri 540 (Tremco) | Self-adhered below-grade membrane for Nudura | [Link](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) | [Reference](https://www.nudura.com/below-grade-waterproofing-with-nudura-icf) |
 | TUFF-N-DRI (Tremco) | Spray-applied polymer-modified foundation membrane | [Link](https://www.tremcosealants.com) | [Reference](https://www.tremcosealants.com/resource/download/TUFF-N-DRI_Application_Features_and_Benefits.pdf) |
 
 ## Technical research
