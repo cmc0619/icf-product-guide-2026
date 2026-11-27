@@ -85,6 +85,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
+| Ames Blue Max | Liquid rubber waterproofing membrane, rolled or brushed onto below-grade walls | [Link](https://amesresearch.com/all-products/blue-max/) | [Reference](https://amesresearch.com/all-products/blue-max/) |
 | Bituthene | Self-adhered membrane | [Link](https://gcpat.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Blueskin WP2000 | Self-adhered below-grade membrane | [Link](https://www.henry.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Colphene ICF | Self-adhered ICF membrane | [Link](https://www.soprema.us) | [Reference](https://alleguard.com/wp-content/uploads/Colphene-ICF-Brochure.pdf) |
@@ -180,6 +181,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Dryvit AquaFlash (Tremco) | Liquid flashing for openings and penetrations | [Link](https://www.dryvit.com/products/aquaflash) | [Reference](https://www.dryvit.com/products/aquaflash) |
 | EnviroDri Field Membrane (Tremco) | Fluid-applied weather barrier | [Link](https://www.tremcocpg.com) | [Reference](https://www.nudura.com/weather-resistant-barrier-with-nudura-icf) |
 | ExoAir 110AT (Tremco) | Flashing sheet | [Link](https://www.tremcocpg.com) | [Reference](https://www.nudura.com/tremco-flashing-solutions-with-nudura-icf) |
+| pro clima INTELLO PLUS | Humidity-variable vapor retarder and interior air barrier membrane | [Link](https://www.proclima.com) | [Reference](https://proclima.com/systems/intello/how-it-works) |
 | pro clima Tescon Vana | Airtightness tapes | [Link](https://www.proclima.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Prosoco R-Guard FastFlash | Liquid flashing for rough openings and penetrations | [Link](https://prosoco.com/product/fastflash-roller-grade/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | SIGA Wigluv | Airtightness tapes | [Link](https://www.siga.swiss) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
@@ -189,6 +191,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | BuildShield Termite (BuildBlock) | Termite barrier system | [Link](https://buildblock.com) | [Reference](https://buildblock.com/products/buildshield-termite-protection/) |
+| Pango Claw | Multi-layer tape that seals Pango Wrap edges to the slab | [Link](https://www.stegoindustries.com/products/pango-claw) | [Reference](https://www.stegoindustries.com/products/pango-claw) |
 | Pango Wrap | Termite and vapor barrier | [Link](https://www.stegoindustries.com/pango-wrap-termite-vapor-barrier) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Polyguard TERM barriers | Termite screen and termite-rated waterproofing membranes | [Link](https://polyguard.com/term/products/term-micromesh-termite-screen) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Termimesh | Stainless mesh termite barrier | [Link](https://www.termihc.com.au/termimesh/) | [Reference](https://buildblock.com/how-to-build-an-icf-house/termite-protection/) |
@@ -316,6 +319,13 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Product | Function | Vendor | Source |
 |---|---|---|---|
 | WICFA | Industry association | [Link](https://wicfa.org) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+
+## Roofing
+
+| Product | Function | Vendor | Source |
+|---|---|---|---|
+| Kirsch SharkSkin Ultra SA | Self-adhered synthetic roof underlayment | — | [Reference](https://floridabuilding.org/upload/PR_Tech_Docs/FL40958_R0_AE_1_Sharkskin_EVALREPORT.pdf) |
+| ZIP System roof sheathing | OSB roof sheathing with integrated water-resistive barrier; seams taped | [Link](https://www.huberwood.com/zip-system/roof-sheathing) | [Reference](https://www.huberwood.com/zip-system/roof-sheathing) |
 
 ## Technical research
 
