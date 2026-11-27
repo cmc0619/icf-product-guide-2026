@@ -12,9 +12,9 @@ from collections import defaultdict
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TAIL = "## Technical research"
-WALLS = "Wall Systems"
+WALLS = "ICF Blocks"
 BASE = ["Category", "Product", "Function", "Vendor", "Source", "Verification"]
-# Every CSV column after BASE is a Wall Systems checkbox: Y = offered, O = the only format, blank = not confirmed.
+# Every CSV column after BASE is a ICF Blocks checkbox: Y = offered, O = the only format, blank = not confirmed.
 # Add a checkbox by adding a column to products.csv; no code change needed.
 FLAGS = []
 MARK = {"": "", "Y": "✓", "O": "Only"}

@@ -6,7 +6,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 **EPS compatibility:** Solvent-based coatings, primers and adhesives can dissolve EPS. Use products the form maker approves.
 
-## Wall Systems
+## ICF Blocks
 
 ✓ means the maker sells its own version. Only means it's the only format they make. Blank means not confirmed, so check the maker's site or the [ICF Builder comparison chart](https://icfmag.com/wp-content/uploads/2017/09/ICF_Comp_Chart.pdf).
 
