@@ -239,8 +239,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Extrutech FORM | P824 permanent PVC concrete wall forms; manufacturer lists ESR-4250; not conventional EPS ICF |  |  |  |  |  |  | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
 | Fox Blocks | EPS wall forms | ✓ | ✓ | ✓ |  |  | ✓ | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | HercuWall | Prefabricated insulated panels |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| IntegraECF | Exposed concrete face option (IntegraSpec) |  |  |  |  |  |  | [Link](https://integraspec.com) | [Reference](https://integraspec.com/wp-content/uploads/2024/05/Integraspec-Catalogue-Eng_23.pdf) |
-| IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ |  |  |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
+| IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | ✓ |  |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
 | LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
 | LiteForm Tilt | Insulated tilt-up forms (LiteForm) |  |  |  |  |  |  | [Link](https://liteform.com) | [Reference](https://liteform.com/products/liteform-tilt.html) |
 | Nudura (Tremco) | Insulated concrete forms |  |  | ✓ |  |  |  | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
