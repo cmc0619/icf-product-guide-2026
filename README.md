@@ -16,7 +16,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Dymonic 100 (Tremco) | High-movement polyurethane sealant | [Link](https://www.tremcocpg.com) | [Reference](https://www.nudura.com/weather-resistant-barrier-with-nudura-icf) |
 | ExoAir LEF (Tremco) | Low-expansion foam for openings and penetrations | [Link](https://www.tremcocpg.com) | [Reference](https://www.nudura.com/tremco-flashing-solutions-with-nudura-icf) |
 | Foam2Foam | Low-expansion polyurethane adhesive and gap filler for ICF | [Link](https://store.buildblock.com/accessories/tools/00wlccv11-foam2foam-kit-foam-11x-cleaner-1x-gloves-foam-gun) | [Reference](https://store.buildblock.com/accessories/tools/00wlccv11-foam2foam-kit-foam-11x-cleaner-1x-gloves-foam-gun) |
-| Fox Foam | Single-component foam adhesive | [Link](https://www.foxblocks.com) | [Reference](https://www.foxblocks.com/products/accessories/fox-foam) |
+| Fox Foam (Fox Blocks) | Single-component foam adhesive | [Link](https://www.foxblocks.com) | [Reference](https://www.foxblocks.com/products/accessories/fox-foam) |
 | Great Stuff Pro / Enerfoam (DuPont) | Spray foam sealants | [Link](https://greatstuff.dupont.com) | [Reference](https://elementicf.com/wp-content/uploads/2025/10/Supporting-Products-100725.pdf) |
 | Nudura Low Expansion Foam | Foam for joints and penetrations | [Link](https://www.nudura.com) | [Reference](https://www.nudura.com/products) |
 | PL 300 (Henkel) | Foam-board adhesive; Loctite and LePage branding | [Link](https://www.loctiteproducts.com/en/products/build/construction-adhesives/pl-pro-line/loctite_pl_300_vocfoamboardadhesive.html) | [Reference](https://www.powrwall.com/resources/technical-library) |
@@ -47,7 +47,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Hilltop ICF Bracing | Wall alignment bracing | [Link](https://www.hilltopmanufacturing.com/icf-bracing) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Plumwall | Adjustable alignment braces | [Link](https://www.plumwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Sunforest ICF Bracing | Standard, foldable and simple wall alignment systems | [Link](https://www.icfstech.com/) | [Reference](https://www.icfstech.com/) |
-| Superior Brace | Wall alignment brace | — | [Reference](https://icfmag.com/2012/09/turnbuckle-bracing-a-market-comparison/) |
+| Superior Brace (Superior Alignment Systems) | Wall alignment brace | — | [Reference](https://icfmag.com/2012/09/turnbuckle-bracing-a-market-comparison/) |
 | Zont (Fab-Form) | Lumber-based bracing with Zuckle brackets | [Link](https://www.zontbracing.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 
 ## Bucking
@@ -125,7 +125,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 |---|---|---|---|
 | BuildCrete | Reinforced coating system for compatible ICF substrates | [Link](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) | [Reference](https://buildblock.com/asked-answered-applying-stucco-on-buildblock-icf-forms/) |
 | Dryvit Outsulation over Nudura (Tremco) | Exterior insulation finish assembly with moisture-drainage option | [Link](https://tremcocpg.com/our-approach/whole-wall-systems) | [Reference](https://tremcocpg.com/our-approach/whole-wall-systems) |
-| DuRock B2000 | Parging base coat with reinforcing mesh | [Link](https://www.durock.com) | [Reference](https://alleguard.com/wp-content/uploads/Durock-B2000-Data-Sheet.pdf) |
+| DuRock B2000 (DuRock Alfacing) | Parging base coat with reinforcing mesh | [Link](https://www.durock.com) | [Reference](https://alleguard.com/wp-content/uploads/Durock-B2000-Data-Sheet.pdf) |
 | Extrutech P1300 / P1600 / P2400 | PVC wall and ceiling liner panels; manufacturer lists ESR-4583; verify assembly scope | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
 | Master Wall ICF stucco | Stucco systems for ICF | [Link](https://masterwall.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Multi-Coat | Stucco and coatings for ICF | [Link](https://multicoat.com/waterproofing/) | [Reference](https://www.powrwall.com/resources/technical-library) |
@@ -196,7 +196,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | Greenbar2X (Mateenbar) | GFRP reinforcement; compatibility letter | [Link](https://mateenbar.com) | [Reference](https://elementicf.com/wp-content/uploads/2026/07/Mateenbar-Letter-for-Element-ICF.pdf) |
 | Helix Steel | Twisted steel micro-reinforcement | [Link](https://www.helixsteel.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | LiteBar (LiteForm) | GFRP reinforcement | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litebar/litebar.html) |
-| MST-BAR | Fiberglass rebar | [Link](https://www.mstbar.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
+| MST-BAR (MST Structural) | Fiberglass rebar | [Link](https://www.mstbar.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Pow-R-Bar (Pow-R-Wall) | GFRP reinforcement | [Link](https://www.powrwall.com) | [Reference](https://www.powrwall.com/product) |
 | Rebar Support Products Foundation Footer Chairs | Supports multiple footing bars with clamping saddles | [Link](https://www.rebarsupportproducts.com/plastic-products) | [Reference](https://www.rebarsupportproducts.com/plastic-products) |
 | Rebar Support Products Locking Spacer Wheels | Locking spacers for bars #3 to #6 | [Link](https://www.rebarsupportproducts.com/plastic-products) | [Reference](https://www.rebarsupportproducts.com/plastic-products) |
@@ -221,7 +221,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
-| Cutting Edge Saw BNCE-20 | Flush rebar cutter | [Link](https://www.bnproducts.com) | [Reference](https://buildblock.com/products/accessories/rebar-cutters/) |
+| Cutting Edge Saw BNCE-20 (BN Products) | Flush rebar cutter | [Link](https://www.bnproducts.com) | [Reference](https://buildblock.com/products/accessories/rebar-cutters/) |
 | LiteFill (LiteForm) | Lightweight EPS fill | [Link](https://liteform.com) | [Reference](https://liteform.com/products/litefill.html) |
 | Norsekem Poly-Dissolve | Chemical removal of sacrificial EPS | [Link](https://www.norsekem.co.uk/wp-content/uploads/Poly-Dissolve-data-sheet.pdf) | [Reference](https://www.norsekem.co.uk/wp-content/uploads/Poly-Dissolve-data-sheet.pdf) |
 | Quiet Denim | Denim insulation | [Link](https://www.quietdeniminsulation.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
