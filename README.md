@@ -241,7 +241,6 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 | HercuWall | Prefabricated insulated panels |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | ✓ |  |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
 | LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
-| LiteForm Tilt | Insulated tilt-up forms (LiteForm) |  |  |  |  |  |  | [Link](https://liteform.com) | [Reference](https://liteform.com/products/liteform-tilt.html) |
 | Nudura (Tremco) | Insulated concrete forms |  |  | ✓ |  |  |  | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
 | PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
 | Pow-R-Wall | Vertical panel forms |  |  |  |  |  |  | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
