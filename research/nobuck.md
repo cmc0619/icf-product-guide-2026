@@ -1,6 +1,6 @@
-# NoBuck — direct-to-concrete window installation
+# "NoBuck" — direct-to-concrete window installation
 
-NoBuck is our shorthand for the tested method, not the report's name or a commercial system.
+"NoBuck" is our shorthand for the tested method, not the report's name or a commercial system.
 
 ## Primary source
 
