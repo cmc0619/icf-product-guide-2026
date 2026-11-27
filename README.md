@@ -133,17 +133,12 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 | Product | Function | Vendor | Source |
 |---|---|---|---|
-| AmDeck | Insulated concrete floor and roof deck forms (Alleguard) | [Link](https://alleguard.com/products/construction/icf/amdeck/) | [Reference](https://alleguard.com/products/construction/icf/amdeck/) |
-| BuildDeck | EPS stay-in-place concrete floor and roof forms | [Link](https://buildblock.com/products/builddeck-floor-roofing/) | [Reference](https://buildblock.com/products/builddeck-floor-roofing/) |
 | Comslab | Composite steel floor deck (BMP Group) | [Link](https://www.bmp-group.com/products/comslab) | [Reference](https://www.powrwall.com/resources/technical-library) |
 | Crete-Heat | Radiant tubing insulation panels | [Link](https://www.crete-heat.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Fortruss Floor & Roof System | Engineered floor and roof panels bearing on ICF (Fortruss) | — | [Reference](https://elementicf.com/wp-content/uploads/2024/02/5.6.4.1-Fortruss-Floor-and-Roof-System-El.pdf) |
 | Hambro D500 | Composite steel joists | [Link](https://www.hambro.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
 | Insul-Deck | Insulated slab forms | [Link](https://www.insul-deck.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| LiteDeck | Insulated suspended concrete floor forms | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
 | Metwood | Cold-formed steel floor and roof products (Metwood) | [Link](https://www.metwood.com/) | [Reference](https://www.powrwall.com/resources/technical-library) |
-| Nudura Deck SRS | Steel-rib insulated deck forms (Nudura) | [Link](https://www.nudura.com) | [Reference](https://www.nudura.com/products/nudura-deck-srs) |
-| Pow-R-Wall Concrete Floor System | Companion concrete floor system (Pow-R-Wall) | [Link](https://www.powrwall.com) | [Reference](https://docs.powrwall.com/powrwall-concrete-floor-system-details.pdf) |
 | Spancrete hollow-core | Precast hollow-core plank (Spancrete) | — | [Reference](https://elementicf.com/technical-library/) |
 | Speedfloor | Composite suspended concrete floor; galvanized cold-formed steel joists; typical 100 mm slab; manufacturer states no propping; service openings | [Link](https://www.speedfloor.com.au/) | [Reference](https://www.speedfloor.com.au/speedfloor-joist) |
 | Super Floor USA | Composite metal decking | [Link](https://www.superfloorusa.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
@@ -230,24 +225,24 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 ✓ means the maker sells its own version. Blank means not confirmed, so check the maker's site.
 
-| Product | Function | Bucks | Brick Ledge | R-Value Inserts | One-Sided | Graphite EPS | Radius | Knockdown | Vendor | Source |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Alleguard Amvic | EPS blocks | ✓ | ✓ |  | ✓ |  |  |  | [Link](https://www.alleguard.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| BuildBlock | Reversible EPS blocks; 4, 6 and 8 inch standard cores; specialty shapes | ✓ |  | ✓ |  |  | ✓ | ✓ | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
-| Element ICF | Hybrid preassembled and site-assembled ICF blocks; interchangeable panels and Flexties | ✓ | ✓ | ✓ |  | ✓ |  | ✓ | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
-| Extrutech FORM | P824 permanent PVC concrete wall forms; manufacturer lists ESR-4250; not conventional EPS ICF |  |  |  |  |  |  |  | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
-| Fox Blocks | EPS wall forms | ✓ | ✓ | ✓ |  |  | ✓ |  | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| HercuWall | Prefabricated insulated panels |  |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
-| LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  |  | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
-| Nudura (Tremco) | Insulated concrete forms |  |  | ✓ |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
-| PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
-| Pow-R-Wall | Vertical panel forms |  |  |  |  |  |  |  | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| Quad-Lock | Modular panel forms |  | ✓ |  |  | ✓ | ✓ | ✓ | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| R-ETRO | Retrofit insulation system (Quad-Lock) |  |  |  |  |  |  |  | [Link](https://www.quadlock.com) | [Reference](https://www.quadlock.com/technical_library/) |
-| Stronghold | ICF blocks |  | ✓ | ✓ |  |  |  |  | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| SuperForm | EPS blocks | ✓ |  | ✓ | ✓ |  |  |  | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
-| TF Forming Systems | Vertical ICF panels with continuous fastening strips |  |  |  |  |  |  |  | [Link](https://www.tfsystem.com/) | [Reference](https://www.tfsystem.com/) |
+| Product | Function | Bucks | Brick Ledge | R-Value Inserts | One-Sided | Graphite EPS | Radius | Knockdown | Deck | Vendor | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Alleguard Amvic | EPS blocks | ✓ | ✓ |  | ✓ |  |  |  | ✓ | [Link](https://www.alleguard.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| BuildBlock | Reversible EPS blocks; 4, 6 and 8 inch standard cores; specialty shapes | ✓ |  | ✓ |  |  | ✓ | ✓ | ✓ | [Link](https://buildblock.com/products/) | [Reference](https://buildblock.com/products/) |
+| Element ICF | Hybrid preassembled and site-assembled ICF blocks; interchangeable panels and Flexties | ✓ | ✓ | ✓ |  | ✓ |  | ✓ |  | [Link](https://elementicf.com/) | [Reference](https://elementicf.com/technical-library/) |
+| Extrutech FORM | P824 permanent PVC concrete wall forms; manufacturer lists ESR-4250; not conventional EPS ICF |  |  |  |  |  |  |  |  | [Link](https://epiplastics.com/resources/specifications/) | [Reference](https://epiplastics.com/resources/specifications/) |
+| Fox Blocks | EPS wall forms | ✓ | ✓ | ✓ |  |  | ✓ |  |  | [Link](https://www.foxblocks.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| HercuWall | Prefabricated insulated panels |  |  |  |  |  |  |  |  | [Link](https://www.nudura.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| IntegraSpec | Independent EPS panel forming system | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  | [Link](https://integraspec.com/) | [Reference](https://integraspec.com/) |
+| LiteForm | Folding preassembled insulated concrete forms |  |  |  |  |  |  |  | ✓ | [Link](https://liteform.com/) | [Reference](https://liteform.com/) |
+| Nudura (Tremco) | Insulated concrete forms |  |  | ✓ |  |  |  |  | ✓ | [Link](https://www.nudura.com) | [Reference](https://icf-ma.org/about-the-icfma/primary-members/) |
+| PolySteel (UK) | EPS forms with steel ties; UK supplier; US supply not established |  |  |  |  |  |  |  |  | [Link](https://polysteel.co.uk/about-us/) | [Reference](https://polysteel.co.uk/about-us/) |
+| Pow-R-Wall | Vertical panel forms |  |  |  |  |  |  |  | ✓ | [Link](https://www.powrwall.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| Quad-Lock | Modular panel forms |  | ✓ |  |  | ✓ | ✓ | ✓ |  | [Link](https://www.quadlock.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| R-ETRO | Retrofit insulation system (Quad-Lock) |  |  |  |  |  |  |  |  | [Link](https://www.quadlock.com) | [Reference](https://www.quadlock.com/technical_library/) |
+| Stronghold | ICF blocks |  | ✓ | ✓ |  |  |  |  |  | [Link](https://www.strongholdicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| SuperForm | EPS blocks | ✓ |  | ✓ | ✓ |  |  |  |  | [Link](https://www.superformicf.com) | [Reference](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf) |
+| TF Forming Systems | Vertical ICF panels with continuous fastening strips |  |  |  |  |  |  |  |  | [Link](https://www.tfsystem.com/) | [Reference](https://www.tfsystem.com/) |
 
 ## Waterproofing
 
