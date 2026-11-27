@@ -1,7 +1,6 @@
 # Research queue
 
 - Audit vendor links and remove discontinued products.
-- Compare block shapes and core widths by manufacturer.
 - Compare floor systems by span, depth and fire rating.
 - Cast-in utility sleeves, Dryerbox and appliance vent assemblies.
 - Under-slab EPS, slab-edge details and vapor retarders.

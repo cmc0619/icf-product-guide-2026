@@ -4,7 +4,7 @@ Interesting stuff I found for building with ICF.
 
 A collection of ICF products sourced from AI scouring the interwebs for my own build in 2026.
 
-[Filterable CSV](products.csv) · [Sources](sources.md)
+[Filterable CSV](products.csv) · [Sources](sources.md) · [ICF Builder comparison chart, 2026](https://icfmag.com/wp-content/uploads/2017/09/ICF_Comp_Chart.pdf): core sizes, ties, fire ratings and code approvals by maker
 
 **EPS compatibility:** Solvent-based coatings, primers and adhesives can dissolve EPS. Use products the form maker approves.
 
@@ -240,7 +240,7 @@ A collection of ICF products sourced from AI scouring the interwebs for my own b
 
 ## Wall Systems
 
-✓ means the maker sells its own version. Only means it's the only format they make. Blank means not confirmed, so check the maker's site.
+✓ means the maker sells its own version. Only means it's the only format they make. Blank means not confirmed, so check the maker's site or the [ICF Builder comparison chart](https://icfmag.com/wp-content/uploads/2017/09/ICF_Comp_Chart.pdf).
 
 | Product | Function | Bucks | Brick Ledge | R-Value Inserts | One-Sided | Graphite EPS | Radius | Knockdown | Deck | Vendor | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|

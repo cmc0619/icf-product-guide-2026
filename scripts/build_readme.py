@@ -61,7 +61,7 @@ def tables(rows):
         walls = cat == WALLS
         out += [f"## {cat}", ""]
         if walls:
-            out += ["✓ means the maker sells its own version. Only means it's the only format they make. Blank means not confirmed, so check the maker's site.", ""]
+            out += ["✓ means the maker sells its own version. Only means it's the only format they make. Blank means not confirmed, so check the maker's site or the [ICF Builder comparison chart](https://icfmag.com/wp-content/uploads/2017/09/ICF_Comp_Chart.pdf).", ""]
             out += ["| Product | Function | " + " | ".join(FLAGS) + " | Vendor | Source |",
                     "|---|---|" + "---|" * len(FLAGS) + "---|---|"]
         else:

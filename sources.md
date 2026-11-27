@@ -6,7 +6,7 @@ Where entries in this guide were found. The source for each product is in [produ
 
 - [ICF Builder Magazine product directory](https://www.icfmag.com/wp-content/uploads/2017/09/ICF-Product-Directory.pdf): the current (2025) directory. The 2017 path is an artifact of where the file was first uploaded; it's replaced each year.
 - [ICF Builder Magazine 2026 issues](https://www.icfmag.com/pdf_dl/2026/): six issues, January through November. Ads, news and columns.
-- [ICF Builder bracing chart](https://www.icfmag.com/wp-content/uploads/2024/03/ICF-Bracing-Chart.pdf) and [ICF comparison chart](https://icfmag.com/icf-comparison-chart/): side-by-side data still to be verified.
+- [ICF Builder 2026 comparison chart](https://icfmag.com/wp-content/uploads/2017/09/ICF_Comp_Chart.pdf): core sizes, ties, fire ratings, accessory shapes and code approvals by maker. Also the [bracing chart](https://www.icfmag.com/wp-content/uploads/2024/03/ICF-Bracing-Chart.pdf).
 
 ## Manufacturer-published compatible-product lists
 
